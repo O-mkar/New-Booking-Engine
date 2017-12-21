@@ -1,0 +1,1 @@
+jQuery(function($){$(document).ready(function(){$( ".calluna_tab" ).tabs();});});

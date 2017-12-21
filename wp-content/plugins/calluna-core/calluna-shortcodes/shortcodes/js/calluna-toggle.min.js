@@ -1,0 +1,1 @@
+jQuery(function($){$(document).ready(function(){$("h4.calluna-toggle-trigger").click(function(){$(this).toggleClass("active").next().slideToggle("fast");return false;});});});

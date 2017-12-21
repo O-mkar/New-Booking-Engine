@@ -1,0 +1,59 @@
+
+---Downloaded files---
+The import files for: Calluna Demo Import were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/~o-mkar/NewBookingEngine
+Data file = /Users/O-mkar/Sites/NewBookingEngine/wp-content/themes/calluna/samples/calluna-content.xml
+Widget file = /Users/O-mkar/Sites/NewBookingEngine/wp-content/themes/calluna/samples/calluna-widgets.wie
+Customizer file = /Users/O-mkar/Sites/NewBookingEngine/wp-content/themes/calluna/samples/calluna-settings.dat
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Blog sidebar : 
+
+Search - Search - Imported
+Recent Posts - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Tag Cloud - Tags - Imported
+Calluna Offers - Offers - Imported
+
+Page sidebar : 
+
+Archives - Archive - Imported
+Recent Posts - Recent Posts - Imported
+Tag Cloud - Tags - Imported
+
+Footer Logo : 
+
+Calluna Image - No Title - Imported
+Calluna Social Links - No Title - Imported
+
+Footer Content One : 
+
+Text - About us - Imported
+
+Footer Content Two : 
+
+Navigation Menu - Explore - Imported
+
+Footer Content Three : 
+
+Recent Posts - Recent - Imported
+
+Booking Sidebar : 
+
+Hotelier Booking - Your stay - Imported
+Hotelier Rooms Filter - Refine results - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

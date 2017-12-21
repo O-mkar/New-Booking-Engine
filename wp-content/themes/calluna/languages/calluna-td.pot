@@ -1,0 +1,3508 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Calluna\n"
+"POT-Creation-Date: 2017-08-10 12:55+0100\n"
+"PO-Revision-Date: 2017-08-10 12:55+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:13
+msgid "Page not found (404)"
+msgstr ""
+
+#: 404.php:34
+msgid "Search "
+msgstr ""
+
+#: archive.php:26
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:29
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:29
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:32
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:32
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:35
+msgid "Asides"
+msgstr ""
+
+#: archive.php:38
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:41
+msgid "Images"
+msgstr ""
+
+#: archive.php:44
+msgid "Videos"
+msgstr ""
+
+#: archive.php:47
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:50
+msgid "Links"
+msgstr ""
+
+#: archive.php:53
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:56
+msgid "Audios"
+msgstr ""
+
+#: archive.php:59
+msgid "Chats"
+msgstr ""
+
+#: archive.php:62
+msgid "Archives"
+msgstr ""
+
+#: comments.php:34 comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:35 comments.php:54
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:36 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:71
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: comments.php:74 metabox-functions.php:233
+msgid "Name"
+msgstr ""
+
+#: comments.php:76
+msgid "Email"
+msgstr ""
+
+#: comments.php:78
+msgid "Website"
+msgstr ""
+
+#: comments.php:85
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:86
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:87
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: comments.php:91
+msgid "Your email address will not be published."
+msgstr ""
+
+#: content-gallery.php:59 content-link.php:30 content-quote.php:30
+#: content-single.php:38 content-video.php:40 content.php:40
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: content-gallery.php:68 content-link.php:39 content-quote.php:39
+#: content-single.php:47 content-video.php:49 content.php:49
+msgid "Leave a comment"
+msgstr ""
+
+#: content-gallery.php:68 content-link.php:39 content-quote.php:39
+#: content-single.php:47 content-video.php:49 content.php:49
+msgid "1 Comment"
+msgstr ""
+
+#: content-gallery.php:68 content-link.php:39 content-quote.php:39
+#: content-single.php:47 content-video.php:49 content.php:49
+msgid "% Comments"
+msgstr ""
+
+#: content-gallery.php:71 content-link.php:42 content-quote.php:42
+#: content-single.php:50 content-video.php:52 content.php:52
+msgid "Edit"
+msgstr ""
+
+#: content-gallery.php:92 content-link.php:50 content-quote.php:46
+#: content-single.php:62 content-video.php:73 content.php:66
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-gallery.php:95 content-link.php:54 content-quote.php:55
+#: content-single.php:65 content-video.php:76 content.php:69
+msgid "Pages:"
+msgstr ""
+
+#: content-gallery.php:99 content-link.php:58 content-quote.php:59
+#: content-single.php:69 content-video.php:80 content.php:73
+msgid "Page"
+msgstr ""
+
+#: content-gallery.php:122 content-link.php:78 content-quote.php:79
+#: content-single.php:94 content-video.php:103
+msgid "Share Post"
+msgstr ""
+
+#: content-gallery.php:127 content-link.php:83 content-quote.php:84
+#: content-single.php:99 content-video.php:108
+msgid "Share on Facebook"
+msgstr ""
+
+#: content-gallery.php:132 content-link.php:88 content-quote.php:89
+#: content-single.php:104 content-video.php:113
+msgid "Share on Twitter"
+msgstr ""
+
+#: content-gallery.php:137 content-link.php:93 content-quote.php:94
+#: content-single.php:109 content-video.php:118
+msgid "Share on Pinterest"
+msgstr ""
+
+#: content-gallery.php:142 content-link.php:98 content-quote.php:99
+#: content-single.php:114 content-video.php:123
+msgid "Share on Google+"
+msgstr ""
+
+#: content-gallery.php:159 content-link.php:115 content-quote.php:116
+#: content-single.php:131 content-video.php:140
+msgid "Author"
+msgstr ""
+
+#: content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:393
+#: framework/classes/class-tgm-plugin-activation.php:920
+#: framework/classes/class-tgm-plugin-activation.php:2626
+#: framework/classes/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:394
+#: framework/classes/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:395
+#: framework/classes/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:1027
+#: framework/classes/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:1214
+#: framework/classes/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3602
+#: framework/classes/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3602
+#: framework/classes/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/classes/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:11
+msgid "Page Settings"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:18
+msgid "Header"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:21
+msgid "Content"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:31
+msgid "Header Options"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:35
+msgid "Color"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:36
+msgid "Image"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:37
+msgid "Slider"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:38
+msgid "No Header"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:42
+msgid "Set the background for the header to slider, image or color."
+msgstr ""
+
+#: framework/classes/meta-boxes.php:46
+msgid "Slider Shortcode"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:49
+msgid "[masterslider id=\"sliderId\"]"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:54
+msgid "Header Background Image"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:57
+msgid "Upload header background image."
+msgstr ""
+
+#: framework/classes/meta-boxes.php:62
+msgid "Header Background Color"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:65
+msgid "Overwrite default color"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:79
+msgid "Header Text"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:82
+msgid "Overwrite the page title"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:97
+msgid "Navigation Style"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:101
+msgid "Default (set in Customizer)"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:102
+msgid "Top transparent navigation"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:103
+msgid "Top navigation"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:104
+msgid "Top full width navigation"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:108
+msgid "Choose your Navigation Style for this Page"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:123
+msgid "Individual Page Menu"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:125
+msgid "Set a different navigation menu only for this page."
+msgstr ""
+
+#: framework/classes/meta-boxes.php:135
+msgid "Content Top Padding"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:147
+msgid "Set the top padding for the content."
+msgstr ""
+
+#: framework/classes/meta-boxes.php:151
+msgid "Content Bottom Padding"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:163
+msgid "Set the bottom padding for the content."
+msgstr ""
+
+#: framework/classes/meta-boxes.php:172
+msgid "Gallery Settings"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:179
+msgid "Gallery"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:180
+msgid "You can upload up to 50 gallery images."
+msgstr ""
+
+#: framework/classes/meta-boxes.php:186
+msgid "Gallery Description"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:189
+msgid "Only for room, event and offer."
+msgstr ""
+
+#: framework/classes/meta-boxes.php:198
+msgid "Video Settings"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:206
+msgid "Video URL"
+msgstr ""
+
+#: framework/classes/meta-boxes.php:208
+#, php-format
+msgid ""
+"You can just insert the URL of the %s. If you fill out this field, it will "
+"be shown instead of the Slider. Notice: The Preview Image will be the Image "
+"set as Featured Image."
+msgstr ""
+
+#: framework/cmb2/example-functions.php:80
+msgid "Test Metabox"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:91
+#: framework/cmb2/example-functions.php:383
+msgid "Test Text"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:92
+#: framework/cmb2/example-functions.php:104
+#: framework/cmb2/example-functions.php:112
+#: framework/cmb2/example-functions.php:120
+#: framework/cmb2/example-functions.php:129
+#: framework/cmb2/example-functions.php:137
+#: framework/cmb2/example-functions.php:152
+#: framework/cmb2/example-functions.php:160
+#: framework/cmb2/example-functions.php:168
+#: framework/cmb2/example-functions.php:185
+#: framework/cmb2/example-functions.php:194
+#: framework/cmb2/example-functions.php:207
+#: framework/cmb2/example-functions.php:214
+#: framework/cmb2/example-functions.php:221
+#: framework/cmb2/example-functions.php:235
+#: framework/cmb2/example-functions.php:248
+#: framework/cmb2/example-functions.php:261
+#: framework/cmb2/example-functions.php:273
+#: framework/cmb2/example-functions.php:282
+#: framework/cmb2/example-functions.php:290
+#: framework/cmb2/example-functions.php:299
+#: framework/cmb2/example-functions.php:306
+#: framework/cmb2/example-functions.php:320
+#: framework/cmb2/example-functions.php:384
+#: framework/cmb2/example-functions.php:475
+#: framework/cmb2/example-functions.php:483
+#: framework/cmb2/example-functions.php:490
+#: framework/cmb2/example-functions.php:497
+#: framework/cmb2/example-functions.php:504
+#: framework/cmb2/example-functions.php:511
+#: framework/cmb2/example-functions.php:518
+#: framework/cmb2/example-functions.php:545
+#: framework/cmb2/example-functions.php:553
+#: framework/cmb2/example-functions.php:560
+#: framework/cmb2/example-functions.php:597
+msgid "field description (optional)"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:103
+msgid "Test Text Small"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:111
+msgid "Test Text Medium"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:119
+msgid "Website URL"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:128
+msgid "Test Text Email"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:136
+msgid "Test Time"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:144
+#: framework/cmb2/example-functions.php:145
+msgid "Time zone"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:151
+msgid "Test Date Picker"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:159
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:167
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:184
+msgid "Test Money"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:193
+msgid "Test Color Picker"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:206
+msgid "Test Text Area"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:213
+msgid "Test Text Area Small"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:220
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:227
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:228
+msgid "This is a title description"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:234
+msgid "Test Select"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:240
+#: framework/cmb2/example-functions.php:253
+#: framework/cmb2/example-functions.php:265
+msgid "Option One"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:241
+#: framework/cmb2/example-functions.php:254
+#: framework/cmb2/example-functions.php:266
+msgid "Option Two"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:242
+#: framework/cmb2/example-functions.php:255
+#: framework/cmb2/example-functions.php:267
+msgid "Option Three"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:247
+msgid "Test Radio inline"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:260
+msgid "Test Radio"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:272
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:281
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:289
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:298
+msgid "Test Checkbox"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:305
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:311
+msgid "Check One"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:312
+msgid "Check Two"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:313
+msgid "Check Three"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:319
+msgid "Test wysiwyg"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:327
+msgid "Test Image"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:328
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: framework/cmb2/example-functions.php:334
+msgid "Multiple Files"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:335
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: framework/cmb2/example-functions.php:342
+msgid "oEmbed"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:343
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: framework/cmb2/example-functions.php:374
+msgid "About Page Metabox"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:403
+msgid "Repeating Field Group"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:411 metabox-functions.php:86
+#: metabox-functions.php:165 metabox-functions.php:217
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:413
+msgid "Entry {#}"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:414 metabox-functions.php:89
+#: metabox-functions.php:168 metabox-functions.php:220
+msgid "Add Another Entry"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:415 metabox-functions.php:90
+#: metabox-functions.php:169 metabox-functions.php:221
+msgid "Remove Entry"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:428
+msgid "Entry Title"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:435
+#: framework/nav-menu/custom_walker.php:174 metabox-functions.php:102
+#: metabox-functions.php:181 metabox-functions.php:240
+msgid "Description"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:436 metabox-functions.php:241
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:442
+msgid "Entry Image"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:448
+msgid "Image Caption"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:467
+msgid "User Profile Metabox"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:474
+#: framework/cmb2/example-functions.php:544
+msgid "Extra Info"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:482
+msgid "Avatar"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:489
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:496
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:503
+msgid "Google+ URL"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:510
+msgid "Linkedin URL"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:517
+msgid "User Field"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:537
+msgid "Category Metabox"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:552
+msgid "Term Image"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:559
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:581
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: framework/cmb2/example-functions.php:596
+msgid "Site Background Color"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2.php:122
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2.php:375
+msgid "Click to toggle"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Ajax.php:65
+msgid "Please Try Again"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Ajax.php:155
+msgid "Remove Embed"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Ajax.php:159
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Field.php:1030
+msgid "Add Group"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Field.php:1031
+msgid "Remove Group"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Field.php:1053
+#: framework/cmb2/includes/CMB2_Field.php:1057
+msgid "None"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:86
+#: framework/cmb2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:87 framework/customizer/controls.php:55
+#: framework/customizer/typography.php:218
+#: framework/customizer/typography.php:244
+#: framework/customizer/typography.php:265
+#: framework/visual-composer/vc_init.php:82
+msgid "Default"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:115
+#: woocommerce/myaccount/orders.php:111
+msgid "Next"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:118
+#: framework/cmb2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:137
+#: framework/cmb2/includes/CMB2_Types.php:1021
+msgid "Remove Image"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:138
+#: framework/cmb2/includes/CMB2_Types.php:357
+#: framework/cmb2/includes/CMB2_Types.php:1040
+#: framework/nav-menu/custom_walker.php:266
+msgid "Remove"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:139
+#: framework/cmb2/includes/CMB2_Types.php:1035
+msgid "File:"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:140
+#: framework/cmb2/includes/CMB2_Types.php:1038
+msgid "Download"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Types.php:768
+#: framework/cmb2/includes/CMB2_Types.php:816
+msgid "No terms"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Types.php:884
+msgid "Add or Upload Files"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_Types.php:945
+msgid "Add or Upload File"
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_hookup.php:120
+msgid ""
+"Term Metadata is a WordPress > 4.4 feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: framework/cmb2/includes/CMB2_hookup.php:124
+msgid "Term metaboxes configuration requires a 'taxonomies' parameter"
+msgstr ""
+
+#: framework/cmb2/includes/helper-functions.php:250
+msgid "Save"
+msgstr ""
+
+#: framework/config/hotelier.php:57
+msgid "Booking Sidebar"
+msgstr ""
+
+#: framework/config/hotelier.php:59
+msgid "This sidebar is visible only in the booking pages."
+msgstr ""
+
+#: framework/config/plugin-setup.php:21
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: framework/config/wpml.php:97
+msgid "Display on language:"
+msgstr ""
+
+#: framework/config/wpml.php:109
+msgid "All Languages"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:62
+msgctxt "backend"
+msgid "Logo Image"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:63
+msgctxt "backend"
+msgid "Recommended height for the Logo is 165px."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:74
+msgctxt "backend"
+msgid "Small logo Image"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:75
+msgctxt "backend"
+msgid "Recommended height for the logo is 50px."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:86
+msgctxt "backend"
+msgid "Fav icon Image"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:87
+msgctxt "backend"
+msgid "Recommended dimensions are 32 x 32px."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:104
+msgctxt "backend"
+msgid "Logo top padding"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:105
+msgctxt "backend"
+msgid ""
+"With the top padding you can create space between the logo and the top "
+"navigation area."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:121
+msgctxt "backend"
+msgid "Logo bottom padding"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:122
+msgctxt "backend"
+msgid ""
+"With the bottom padding you can create space between the logo and the bottom "
+"navigation area."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:131
+msgctxt "backend"
+msgid "Navigation style"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:132
+msgctxt "backend"
+msgid "Transparent boxed, Color boxed or Full Width"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:135
+msgctxt "backend"
+msgid "Transparent"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:136
+msgctxt "backend"
+msgid "Color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:137
+msgctxt "backend"
+msgid "Full Width"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:145
+msgctxt "backend"
+msgid "Static or sticky"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:148
+msgctxt "backend"
+msgid "Static"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:149
+msgctxt "backend"
+msgid "Sticky"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:158
+msgctxt "backend"
+msgid "Show wpml language switcher in top bar"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:161
+#: framework/customizer/calluna-customize-common.php:1097
+#: framework/customizer/calluna-customize-common.php:1734
+#: framework/customizer/calluna-customize-common.php:1784
+#: framework/customizer/calluna-customize-common.php:1928
+#: framework/customizer/calluna-customize-common.php:2218
+#: framework/customizer/calluna-customize-common.php:2230
+#: framework/customizer/calluna-customize-common.php:2242
+#: framework/customizer/calluna-customize-common.php:2254
+#: framework/customizer/calluna-customize-common.php:2349
+#: framework/customizer/calluna-customize-common.php:2370
+#: framework/customizer/calluna-customize-common.php:2447
+#: framework/customizer/calluna-customize-common.php:2597
+#: framework/customizer/calluna-customize-common.php:2634
+#: framework/customizer/calluna-customize-common.php:2646
+#: framework/customizer/calluna-customize-common.php:2658
+msgctxt "backend"
+msgid "Yes"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:162
+#: framework/customizer/calluna-customize-common.php:1098
+#: framework/customizer/calluna-customize-common.php:1735
+#: framework/customizer/calluna-customize-common.php:1785
+#: framework/customizer/calluna-customize-common.php:1929
+#: framework/customizer/calluna-customize-common.php:2219
+#: framework/customizer/calluna-customize-common.php:2231
+#: framework/customizer/calluna-customize-common.php:2243
+#: framework/customizer/calluna-customize-common.php:2255
+#: framework/customizer/calluna-customize-common.php:2350
+#: framework/customizer/calluna-customize-common.php:2371
+#: framework/customizer/calluna-customize-common.php:2448
+#: framework/customizer/calluna-customize-common.php:2598
+#: framework/customizer/calluna-customize-common.php:2635
+#: framework/customizer/calluna-customize-common.php:2647
+#: framework/customizer/calluna-customize-common.php:2659
+msgctxt "backend"
+msgid "No"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:189
+msgctxt "backend"
+msgid "Navigation background color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:208
+msgctxt "backend"
+msgid "Sticky navigation background color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:236
+msgctxt "backend"
+msgid "Navigation link color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:262
+msgctxt "backend"
+msgid "Navigation link hover color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:284
+msgctxt "backend"
+msgid "Navigation active link color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:305
+msgctxt "backend"
+msgid "Navigation dropdown background color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:325
+msgctxt "backend"
+msgid "Navigation dropdown separator color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:345
+msgctxt "backend"
+msgid "Navigation dropdown link color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:372
+msgctxt "backend"
+msgid "Navigation dropdown link hover color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:394
+msgctxt "backend"
+msgid "Navigation dropdown active link color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:423
+msgctxt "backend"
+msgid "Mobile navigation menu toggle color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:442
+msgctxt "backend"
+msgid "Mobile navigation background color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:461
+msgctxt "backend"
+msgid "Mobile navigation text color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:481
+msgctxt "backend"
+msgid "Mobile navigation text hover color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:501
+msgctxt "backend"
+msgid "Mobile navigation active link color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:607
+msgctxt "backend"
+msgid "Primary color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:725
+msgctxt "backend"
+msgid "Secondary color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:750
+msgctxt "backend"
+msgid "Accent color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:769
+msgctxt "backend"
+msgid "Sidebar background color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:797
+msgctxt "backend"
+msgid "H2 color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:834
+msgctxt "backend"
+msgid "H3 color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:886
+#: framework/customizer/calluna-customize-common.php:1631
+msgctxt "backend"
+msgid "Text color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:914
+#: framework/customizer/calluna-customize-common.php:1650
+msgctxt "backend"
+msgid "Link color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:922
+msgctxt "backend"
+msgid "Button style"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:925
+msgctxt "backend"
+msgid "Style 1"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:926
+msgctxt "backend"
+msgid "Style 2"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:974
+msgctxt "backend"
+msgid "Primary button color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:995
+msgctxt "backend"
+msgid "Primary button text color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:996
+msgctxt "backend"
+msgid "Only for style two"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1054
+msgctxt "backend"
+msgid "Primary button hover color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1086
+msgctxt "backend"
+msgid "Primary button text hover color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1094
+msgctxt "backend"
+msgid "Show booking teaser on front page"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1105
+msgctxt "backend"
+msgid "Booking teaser text"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1122
+msgctxt "backend"
+msgid "Booking teaser background color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1140
+msgctxt "backend"
+msgid "Booking teaser text color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1158
+msgctxt "backend"
+msgid "Go to top background color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1183
+msgctxt "backend"
+msgid "Go to top hover color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1210
+msgctxt "backend"
+msgid "Style One background color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1211
+#: framework/customizer/calluna-customize-common.php:1308
+msgctxt "backend"
+msgid "Column background"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1221
+msgctxt "backend"
+msgid "Style One background image"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1222
+#: framework/customizer/calluna-customize-common.php:1319
+msgctxt "backend"
+msgid "Column background image"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1243
+msgctxt "backend"
+msgid "Style One Heading color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1244
+#: framework/customizer/calluna-customize-common.php:1342
+msgctxt "backend"
+msgid "Column Heading"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1265
+msgctxt "backend"
+msgid "Style One Heading underline color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1266
+#: framework/customizer/calluna-customize-common.php:1364
+msgctxt "backend"
+msgid "Column Heading Underline"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1288
+msgctxt "backend"
+msgid "Style One text color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1289
+#: framework/customizer/calluna-customize-common.php:1387
+msgctxt "backend"
+msgid "Column text"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1307
+msgctxt "backend"
+msgid "Style Two background color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1318
+msgctxt "backend"
+msgid "Style Two background image"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1341
+msgctxt "backend"
+msgid "Style Two Heading color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1363
+msgctxt "backend"
+msgid "Style Two Heading underline color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1386
+msgctxt "backend"
+msgid "Style Two text color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1406
+msgctxt "backend"
+msgid "Header background color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1407
+msgctxt "backend"
+msgid "for the colored header option"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1415
+msgctxt "backend"
+msgid "Header Title Alignment"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1416
+msgctxt "backend"
+msgid "Left, center or right"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1419
+#: framework/customizer/calluna-customize-common.php:2609
+#: framework/customizer/calluna-customize-common.php:2621
+msgctxt "backend"
+msgid "Left"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1420
+msgctxt "backend"
+msgid "Center"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1421
+#: framework/customizer/calluna-customize-common.php:2608
+#: framework/customizer/calluna-customize-common.php:2620
+msgctxt "backend"
+msgid "Right"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1443
+msgctxt "backend"
+msgid "Header title color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1462
+msgctxt "backend"
+msgid "Header title separator color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1478
+msgctxt "backend"
+msgid "Header title top padding"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1479
+msgctxt "backend"
+msgid ""
+"With the top padding you can change the height for the image and color "
+"header option."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1494
+msgctxt "backend"
+msgid "Header title bottom padding"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1495
+msgctxt "backend"
+msgid ""
+"With the bottom padding you can change the height for the image and color "
+"header option"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1510
+msgctxt "backend"
+msgid "Header title left padding"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1511
+msgctxt "backend"
+msgid "Change the left padding for the header title."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1526
+msgctxt "backend"
+msgid "Header title right padding"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1527
+msgctxt "backend"
+msgid "Change the right padding for the header title."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1546
+msgctxt "backend"
+msgid "Background color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1556
+msgctxt "backend"
+msgid "Footer background image"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1557
+msgctxt "backend"
+msgid "Optional background image for the footer."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1575
+msgctxt "backend"
+msgid "Top border color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1593
+msgctxt "backend"
+msgid "Widget title color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1612
+msgctxt "backend"
+msgid "Widget title separator color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1673
+msgctxt "backend"
+msgid "Link hover color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1695
+msgctxt "backend"
+msgid "Link active color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1713
+msgctxt "backend"
+msgid "Area separator color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1721
+msgctxt "backend"
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1722
+msgctxt "backend"
+msgid "Bottom line text. You can use HTML."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1731
+msgctxt "backend"
+msgid "Show loading animation"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1742
+msgctxt "backend"
+msgid "Currency"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1743
+msgctxt "backend"
+msgid "Add your currency for the prices"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1750
+msgctxt "backend"
+msgid "Currency Position"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1751
+msgctxt "backend"
+msgid "Before or after price"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1754
+msgctxt "backend"
+msgid "Before"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1755
+msgctxt "backend"
+msgid "After"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1762
+msgctxt "backend"
+msgid "Google Maps API Key"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1763
+#, php-format
+msgctxt "backend"
+msgid "%s How to create API Key %s for the google maps."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1770
+msgctxt "backend"
+msgid "OpenweatherMap API Key"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1771
+#, php-format
+msgctxt "backend"
+msgid "%s How to create API Key %s for openweathermaps."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1781
+msgctxt "backend"
+msgid "Use WP Hotelier Booking process"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1792
+msgctxt "backend"
+msgid "Room Type Slug"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1793
+#: framework/customizer/calluna-customize-common.php:2359
+#: framework/customizer/calluna-customize-common.php:2420
+msgctxt "backend"
+msgid "After changing the slug, make sure to save your permalinks again."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1800
+msgctxt "backend"
+msgid "Guest number for Calendar"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1801
+msgctxt "backend"
+msgid "Add number for the guest select"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1808
+#: framework/customizer/calluna-customize-common.php:2427
+msgctxt "backend"
+msgid "Reservation button text"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1809
+msgctxt "backend"
+msgid "Add the text shown on the button."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1816
+msgctxt "backend"
+msgid "Reservation header"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1817
+msgctxt "backend"
+msgid "Header for the additional reservation text"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1824
+#: framework/customizer/calluna-customize-common.php:1832
+msgctxt "backend"
+msgid "reservation text"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1825
+msgctxt "backend"
+msgid "Additonial reservation text"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1833
+msgctxt "backend"
+msgid "Additonial reservation hint"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1840
+msgctxt "backend"
+msgid "Button link"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1841
+msgctxt "backend"
+msgid "Chose the page with the booking reservation form"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1848
+msgctxt "backend"
+msgid "External Link"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1849
+msgctxt "backend"
+msgid "Link to an external page"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1856
+msgctxt "backend"
+msgid "Set Form Method"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1857
+msgctxt "backend"
+msgid "HTTP Get or Post"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1860
+msgctxt "backend"
+msgid "Get"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1861
+msgctxt "backend"
+msgid "Post"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1868
+msgctxt "backend"
+msgid "External Parameter: Check-In"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1869
+msgctxt "backend"
+msgid "Add parameter for the external check-in date field"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1876
+msgctxt "backend"
+msgid "External Parameter: Check-Out"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1877
+msgctxt "backend"
+msgid "Add parameter for the external check-out date field"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1884
+msgctxt "backend"
+msgid "External Parameter: Guests"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1885
+msgctxt "backend"
+msgid "Add parameter for the external guests field"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1892
+msgctxt "backend"
+msgid "External Parameter Name: Custom 1"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1893
+msgctxt "backend"
+msgid "Add name additional parameter"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1900
+msgctxt "backend"
+msgid "External Parameter Value: Custom 1"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1901
+#: framework/customizer/calluna-customize-common.php:1918
+msgctxt "backend"
+msgid "Add value for additional parameter"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1908
+msgctxt "backend"
+msgid "External Parameter Name: Custom 2"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1909
+msgctxt "backend"
+msgid "Add name for additional parameter"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1917
+msgctxt "backend"
+msgid "External Parameter Value: Custom 2"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1925
+msgctxt "backend"
+msgid "Show picker top arrows"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1946
+msgctxt "backend"
+msgid "Picker title color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1964
+msgctxt "backend"
+msgid "Picker background color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:1984
+msgctxt "backend"
+msgid "Picker label color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2004
+msgctxt "backend"
+msgid "Picker number color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2023
+msgctxt "backend"
+msgid "Calendar number background color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2045
+msgctxt "backend"
+msgid "Picker border color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2064
+msgctxt "backend"
+msgid "Calendar actual date background color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2083
+msgctxt "backend"
+msgid "Calendar actual date text color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2105
+msgctxt "backend"
+msgid "Calendar selected date background color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2126
+msgctxt "backend"
+msgid "Calendar selected date text color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2147
+msgctxt "backend"
+msgid "Calendar number hover background color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2168
+msgctxt "backend"
+msgid "Calendar number hover text color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2186
+msgctxt "backend"
+msgid "Reservation header color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2205
+msgctxt "backend"
+msgid "Reservation text and hint color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2214
+msgctxt "backend"
+msgid "Show related rooms"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2215
+msgctxt "backend"
+msgid "Show other rooms on single room"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2226
+msgctxt "backend"
+msgid "Show google map"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2227
+msgctxt "backend"
+msgid "Show google map on single room"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2238
+msgctxt "backend"
+msgid "Show Date Picker"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2239
+msgctxt "backend"
+msgid "Show the date picker on a single room"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2250
+msgctxt "backend"
+msgid "Show availability calendar"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2251
+msgctxt "backend"
+msgid "Show availability calendar on single room"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2275
+msgctxt "backend"
+msgid "Room Carousel Overlay Color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2301
+msgctxt "backend"
+msgid "Room Carousel Hover Color"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2316
+msgctxt "backend"
+msgid "Prefix text for room price"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2317
+msgctxt "backend"
+msgid "Text shown in front of the room price."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2324
+msgctxt "backend"
+msgid "Title for the amenities section"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2331
+#: framework/customizer/calluna-customize-common.php:2397
+#: framework/customizer/calluna-customize-common.php:2487
+msgctxt "backend"
+msgid "Title for the gallery section"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2338
+msgctxt "backend"
+msgid "Button Text for the Room Carousel"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2345
+msgctxt "backend"
+msgid "Room Carousel Button: Show price?"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2346
+msgctxt "backend"
+msgid "Show price on the button of the room carousel"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2358
+msgctxt "backend"
+msgid "Event Type Slug"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2366
+msgctxt "backend"
+msgid "Show related events"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2367
+msgctxt "backend"
+msgid "Show other events on single event"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2378
+msgctxt "backend"
+msgid "Related Events Title"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2379
+msgctxt "backend"
+msgid "Title for the related events carousel"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2388
+msgctxt "backend"
+msgid "Related Events Text"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2389
+msgctxt "backend"
+msgid "Text for the related events carousel"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2404
+#: framework/customizer/calluna-customize-common.php:2494
+msgctxt "backend"
+msgid "Title for the details section"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2411
+#: framework/customizer/calluna-customize-common.php:2501
+msgctxt "backend"
+msgid "Subtitle for the details section"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2419
+msgctxt "backend"
+msgid "Offer Type Slug"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2428
+msgctxt "backend"
+msgid "Text shown on the button."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2435
+msgctxt "backend"
+msgid "Offer reservation link"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2436
+msgctxt "backend"
+msgid "Chose the page with the offer reservation form"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2443
+msgctxt "backend"
+msgid "Show related offers"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2444
+msgctxt "backend"
+msgid "Show other offers on single offer"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2455
+msgctxt "backend"
+msgid "Related Offers Category"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2456
+msgctxt "backend"
+msgid ""
+"Show only related offers from this category. Leave empty for all categories."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2463
+msgctxt "backend"
+msgid "Related Offers Title"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2464
+msgctxt "backend"
+msgid "Title for the related offers carousel"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2471
+msgctxt "backend"
+msgid "Related Offers Text"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2472
+msgctxt "backend"
+msgid "Text for the related offers carousel"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2479
+msgctxt "backend"
+msgid "Prefix text for offer price"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2480
+msgctxt "backend"
+msgid "Text shown in front of the offer price."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2510
+msgctxt "backend"
+msgid "Facebook"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2511
+msgctxt "backend"
+msgid "Add your facebook profil URL"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2518
+msgctxt "backend"
+msgid "Twitter"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2519
+msgctxt "backend"
+msgid "Add your twitter profil URL"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2526
+msgctxt "backend"
+msgid "Google+"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2527
+msgctxt "backend"
+msgid "Add your google+ profil URL"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2534
+msgctxt "backend"
+msgid "Instagram"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2535
+msgctxt "backend"
+msgid "Add your instagram profil URL"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2542
+msgctxt "backend"
+msgid "Pinterest"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2543
+msgctxt "backend"
+msgid "Add your pinterest profil URL"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2550
+msgctxt "backend"
+msgid "Tumblr"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2551
+msgctxt "backend"
+msgid "Add your tumblr profil URL"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2558
+msgctxt "backend"
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2559
+msgctxt "backend"
+msgid "Add your LinkedIn profil URL"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2566
+msgctxt "backend"
+msgid "Youtube"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2567
+msgctxt "backend"
+msgid "Add your Youtube profil URL"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2574
+msgctxt "backend"
+msgid "Yelp"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2575
+msgctxt "backend"
+msgid "Add your yelp profil URL"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2582
+msgctxt "backend"
+msgid "Tripadvisor"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2583
+msgctxt "backend"
+msgid "Add your tripadvisor profil URL"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2593
+msgctxt "backend"
+msgid "Single Post: Show Social Share?"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2594
+msgctxt "backend"
+msgid "Show share options for a single post."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2605
+msgctxt "backend"
+msgid "Blog: Sidebar Position"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2610
+#: framework/customizer/calluna-customize-common.php:2622
+msgctxt "backend"
+msgid "No Sidebar"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2617
+msgctxt "backend"
+msgid "Single Post: Sidebar Position"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2630
+msgctxt "backend"
+msgid "Single Post: Show Tags?"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2631
+msgctxt "backend"
+msgid "Show Tags for a single post."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2642
+msgctxt "backend"
+msgid "Single Post: Show Author Details?"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2643
+msgctxt "backend"
+msgid "Show author details for a single post."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2654
+msgctxt "backend"
+msgid "Single Post: Show Post Navigation?"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2655
+msgctxt "backend"
+msgid "Show prev and next navigation for a single post."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2666
+msgctxt "backend"
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2667
+msgctxt "backend"
+msgid "Add your custom css code"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2673
+msgctxt "backend"
+msgid "Custom JavaScript (head)"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2674
+#: framework/customizer/calluna-customize-common.php:2681
+msgctxt "backend"
+msgid "You have to include the &lt;script&gt;&lt;/script&gt; tags as well."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2680
+msgctxt "backend"
+msgid "Custom JavaScript (footer)"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2692
+msgctxt "backend"
+msgid "Logo, Small logo &amp; favicon"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2693
+msgctxt "backend"
+msgid "Logo, small logo &amp; favicon for the Calluna theme."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2697
+msgctxt "backend"
+msgid "Navigation"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2701
+msgctxt "backend"
+msgid "Theme Layout &amp; Colors"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2705
+msgctxt "backend"
+msgid "Column Styles"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2706
+msgctxt "backend"
+msgid "Define two different column styles"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2710
+msgctxt "backend"
+msgid "Header"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2711
+msgctxt "backend"
+msgid "All layout and appearance settings for the header."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2716
+msgctxt "backend"
+msgid "Footer"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2717
+msgctxt "backend"
+msgid "All layout and appearance settings for the footer."
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2722
+msgctxt "backend"
+msgid "General"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2723
+msgctxt "backend"
+msgid "General Theme Options"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2728
+msgctxt "backend"
+msgid "Booking"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2733
+msgctxt "backend"
+msgid "Rooms"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2738
+msgctxt "backend"
+msgid "Events"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2743
+msgctxt "backend"
+msgid "Offers"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2747
+msgctxt "backend"
+msgid "Blog & Single Post"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2751
+msgctxt "backend"
+msgid "Social Media"
+msgstr ""
+
+#: framework/customizer/calluna-customize-common.php:2755
+msgctxt "backend"
+msgid "Custom Code"
+msgstr ""
+
+#: framework/customizer/typography.php:40
+msgid "Body"
+msgstr ""
+
+#: framework/customizer/typography.php:44
+msgid "Paragraph <p>"
+msgstr ""
+
+#: framework/customizer/typography.php:48
+msgid "Page Title"
+msgstr ""
+
+#: framework/customizer/typography.php:52
+msgid "Heading H2"
+msgstr ""
+
+#: framework/customizer/typography.php:56
+msgid "Heading H3"
+msgstr ""
+
+#: framework/customizer/typography.php:60
+msgid "Heading H4"
+msgstr ""
+
+#: framework/customizer/typography.php:64
+msgid "Heading H5"
+msgstr ""
+
+#: framework/customizer/typography.php:68 framework/menu_widgets.php:14
+msgid "Main Menu"
+msgstr ""
+
+#: framework/customizer/typography.php:72
+msgid "Main Menu: Dropdowns"
+msgstr ""
+
+#: framework/customizer/typography.php:76 framework/menu_widgets.php:15
+msgid "Mobile Menu"
+msgstr ""
+
+#: framework/customizer/typography.php:80
+msgid "Sidebar Widget Heading"
+msgstr ""
+
+#: framework/customizer/typography.php:84
+msgid "Footer Widget Heading"
+msgstr ""
+
+#: framework/customizer/typography.php:88
+msgid "Footer Paragraph <p>"
+msgstr ""
+
+#: framework/customizer/typography.php:92
+msgid "Footer Lists <ul>"
+msgstr ""
+
+#: framework/customizer/typography.php:96
+msgid "Blog Post Title"
+msgstr ""
+
+#: framework/customizer/typography.php:100
+msgid "Post H3"
+msgstr ""
+
+#: framework/customizer/typography.php:104
+msgid "Copyright"
+msgstr ""
+
+#: framework/customizer/typography.php:108
+msgid "Primary Button"
+msgstr ""
+
+#: framework/customizer/typography.php:112
+msgid "Weather &amp; Time"
+msgstr ""
+
+#: framework/customizer/typography.php:116
+msgid "Booking Calendar"
+msgstr ""
+
+#: framework/customizer/typography.php:120
+msgid "Post &amp; Event Dates"
+msgstr ""
+
+#: framework/customizer/typography.php:124
+msgid "Room &amp; Offer Prices"
+msgstr ""
+
+#: framework/customizer/typography.php:128
+msgid "Load Custom Font"
+msgstr ""
+
+#: framework/customizer/typography.php:145
+msgid "Typography"
+msgstr ""
+
+#: framework/customizer/typography.php:193
+msgid "Font Family"
+msgstr ""
+
+#: framework/customizer/typography.php:197
+msgid ""
+"To prevent bugs with the customizer make sure to change the family first."
+msgstr ""
+
+#: framework/customizer/typography.php:209
+msgid "Note: Not all Fonts support every font weight style."
+msgstr ""
+
+#: framework/customizer/typography.php:212
+msgid "Font Weight"
+msgstr ""
+
+#: framework/customizer/typography.php:219
+msgid "Book: 300"
+msgstr ""
+
+#: framework/customizer/typography.php:220
+msgid "Normal: 400"
+msgstr ""
+
+#: framework/customizer/typography.php:221
+msgid "Medium: 500"
+msgstr ""
+
+#: framework/customizer/typography.php:222
+msgid "Semibold: 600"
+msgstr ""
+
+#: framework/customizer/typography.php:223
+msgid "Bold: 700"
+msgstr ""
+
+#: framework/customizer/typography.php:224
+msgid "Extra Bold: 800"
+msgstr ""
+
+#: framework/customizer/typography.php:226
+msgid "Important: Not all fonts support every font-weight."
+msgstr ""
+
+#: framework/customizer/typography.php:238
+msgid "Font Style"
+msgstr ""
+
+#: framework/customizer/typography.php:245
+msgid "Normal"
+msgstr ""
+
+#: framework/customizer/typography.php:246
+msgid "Italic"
+msgstr ""
+
+#: framework/customizer/typography.php:259
+msgid "Text Transform"
+msgstr ""
+
+#: framework/customizer/typography.php:266
+msgid "Capitalize"
+msgstr ""
+
+#: framework/customizer/typography.php:267
+msgid "Lowercase"
+msgstr ""
+
+#: framework/customizer/typography.php:268
+msgid "Uppercase"
+msgstr ""
+
+#: framework/customizer/typography.php:281
+msgid "Font Size"
+msgstr ""
+
+#: framework/customizer/typography.php:286
+msgid "Value in pixels."
+msgstr ""
+
+#: framework/customizer/typography.php:301
+msgid "Font Color"
+msgstr ""
+
+#: framework/customizer/typography.php:319
+msgid "Line Height"
+msgstr ""
+
+#: framework/customizer/typography.php:341
+msgid "Letter Spacing"
+msgstr ""
+
+#: framework/enqueue.php:12
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/enqueue.php:18
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/extras.php:122
+msgid "Continue reading"
+msgstr ""
+
+#: framework/menu_widgets.php:30
+msgid "Blog sidebar"
+msgstr ""
+
+#: framework/menu_widgets.php:32
+msgid "Add widgets here to appear in the blog sidebar."
+msgstr ""
+
+#: framework/menu_widgets.php:39
+msgid "Page sidebar"
+msgstr ""
+
+#: framework/menu_widgets.php:41
+msgid "Add widgets here to appear in the page sidebar."
+msgstr ""
+
+#: framework/menu_widgets.php:48
+msgid "Footer Logo"
+msgstr ""
+
+#: framework/menu_widgets.php:50
+msgid "Add the footer logo here."
+msgstr ""
+
+#: framework/menu_widgets.php:57
+msgid "Footer Content One"
+msgstr ""
+
+#: framework/menu_widgets.php:59 framework/menu_widgets.php:68
+msgid "Add content for the footer."
+msgstr ""
+
+#: framework/menu_widgets.php:66
+msgid "Footer Content Two"
+msgstr ""
+
+#: framework/menu_widgets.php:75
+msgid "Footer Content Three"
+msgstr ""
+
+#: framework/menu_widgets.php:77
+msgid "Add content for the footer"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:78
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:82
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:106
+msgid "Move up"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:119
+msgid "Move down"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:121
+#: framework/nav-menu/custom_walker.php:123
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:133
+msgid "URL"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:141
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:148
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:155
+msgid "Open link in a new tab"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:160
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:167
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:176
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:184
+msgid "Add Icon"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:191
+msgid "Background Image URL"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:198
+msgid "Background Position"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:221
+msgid "Mega Menu?"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:232
+msgid "Menu Title ?"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:238
+msgid "Number of Columns"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:253
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: framework/nav-menu/custom_walker.php:267
+#: woocommerce/myaccount/orders.php:76
+msgid "Cancel"
+msgstr ""
+
+#: framework/template-tags.php:70
+msgid "&laquo;"
+msgstr ""
+
+#: framework/template-tags.php:71
+msgid "&raquo;"
+msgstr ""
+
+#: framework/template-tags.php:106
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: framework/visual-composer/vc_init.php:79
+msgid "Add extra style"
+msgstr ""
+
+#: framework/visual-composer/vc_init.php:83
+msgid "Style 1"
+msgstr ""
+
+#: framework/visual-composer/vc_init.php:84
+msgid "Style 2"
+msgstr ""
+
+#: header.php:139
+msgid "Languages"
+msgstr ""
+
+#: hotelier/booking/cart-errors.php:20
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back and resolve these issues before the booking."
+msgstr ""
+
+#: hotelier/booking/cart-errors.php:24 hotelier/booking/received.php:53
+msgid "List of available rooms"
+msgstr ""
+
+#: hotelier/booking/form-additional-information.php:21
+msgid "Additional information"
+msgstr ""
+
+#: hotelier/booking/form-guest-details.php:21
+msgid "Guest details"
+msgstr ""
+
+#: hotelier/booking/form-pay.php:23 hotelier/booking/reservation-table.php:29
+msgid "Room"
+msgstr ""
+
+#: hotelier/booking/form-pay.php:24 hotelier/booking/reservation-table.php:30
+msgid "Qty"
+msgstr ""
+
+#: hotelier/booking/form-pay.php:25 hotelier/booking/reservation-table.php:31
+msgid "Cost"
+msgstr ""
+
+#: hotelier/booking/form-pay.php:59 hotelier/booking/payment.php:20
+msgid "Payment method"
+msgstr ""
+
+#: hotelier/booking/form-pay.php:71 hotelier/booking/payment.php:32
+msgid ""
+"Sorry, it seems that there are no available payment methods. Please contact "
+"us if you require assistance."
+msgstr ""
+
+#: hotelier/booking/received.php:22
+msgid ""
+"Unfortunately your reservation cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: hotelier/booking/received.php:25 woocommerce/myaccount/orders.php:68
+msgid "Pay"
+msgstr ""
+
+#: hotelier/booking/received.php:30
+msgid "This reservation has been cancelled. The reservation was as follows."
+msgstr ""
+
+#: hotelier/booking/received.php:36
+msgid "Thank you. Your reservation has been received."
+msgstr ""
+
+#: hotelier/booking/received.php:51
+msgid "Invalid reservation."
+msgstr ""
+
+#: hotelier/booking/reservation-details.php:21
+msgid "Booking details"
+msgstr ""
+
+#: hotelier/booking/reservation-details.php:29
+msgid "Check-in"
+msgstr ""
+
+#: hotelier/booking/reservation-details.php:33
+msgid "Check-out"
+msgstr ""
+
+#: hotelier/booking/reservation-details.php:37
+msgid "Pets"
+msgstr ""
+
+#: hotelier/booking/reservation-details.php:43
+msgid "Accepted credit cards"
+msgstr ""
+
+#: hotelier/booking/reservation-table.php:21
+msgid "Your reservation"
+msgstr ""
+
+#: hotelier/booking/reservation-table.php:47
+#, php-format
+msgid "Rate: %s"
+msgstr ""
+
+#: hotelier/booking/reservation-table.php:51
+msgid "Non-refundable"
+msgstr ""
+
+#: hotelier/booking/reservation-table.php:61
+msgid "View price breakdown"
+msgstr ""
+
+#: hotelier/booking/reservation-table.php:61
+msgid "Hide price breakdown"
+msgstr ""
+
+#: hotelier/booking/reservation-table.php:84
+#: hotelier/booking/reservation-table.php:107
+msgid "Total:"
+msgstr ""
+
+#: hotelier/booking/reservation-table.php:91
+msgid "Deposit due now:"
+msgstr ""
+
+#: hotelier/booking/reservation-table.php:98
+msgid "Deposit due after confirm:"
+msgstr ""
+
+#: hotelier/booking/reservation-table.php:119
+msgid ""
+"This reservation includes a non-cancellable and non-refundable room. You "
+"will be charged the total price if you cancel your booking."
+msgstr ""
+
+#: hotelier/booking/terms.php:21
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: hotelier/global/datepicker.php:25
+msgid "Check availability"
+msgstr ""
+
+#: hotelier/room-list/content/add-to-cart.php:44
+#: hotelier/room-list/content/rate/rate-add-to-cart.php:42
+msgctxt "book now button text: singular"
+msgid "room selected"
+msgstr ""
+
+#: hotelier/room-list/content/add-to-cart.php:44
+#: hotelier/room-list/content/rate/rate-add-to-cart.php:42
+msgctxt "book now button text: plural"
+msgid "rooms selected"
+msgstr ""
+
+#: hotelier/room-list/content/add-to-cart.php:44
+#: hotelier/room-list/content/rate/rate-add-to-cart.php:42
+msgid "Book now"
+msgstr ""
+
+#: hotelier/room-list/reserve-button.php:26
+msgid "Reserve"
+msgstr ""
+
+#: hotelier/room-list/room-content.php:129
+msgid "Show rates"
+msgstr ""
+
+#: hotelier/room-list/room-content.php:129
+msgid "Hide rates"
+msgstr ""
+
+#: inc/pagetitle/pagetitle-frontpage.php:16
+#: inc/pagetitle/pagetitle-frontpage.php:33
+msgid "Recent Posts"
+msgstr ""
+
+#: metabox-functions.php:40
+msgid "Event information"
+msgstr ""
+
+#: metabox-functions.php:50
+msgid "Event Date"
+msgstr ""
+
+#: metabox-functions.php:56
+msgid "Event Time"
+msgstr ""
+
+#: metabox-functions.php:64
+msgid "Event Location"
+msgstr ""
+
+#: metabox-functions.php:74 metabox-functions.php:153
+msgid "Included Details"
+msgstr ""
+
+#: metabox-functions.php:88 metabox-functions.php:167
+msgid "Included detail {#}"
+msgstr ""
+
+#: metabox-functions.php:103 metabox-functions.php:182
+msgid "Write the included detail"
+msgstr ""
+
+#: metabox-functions.php:124
+msgid "Offer information"
+msgstr ""
+
+#: metabox-functions.php:134
+msgid "Price"
+msgstr ""
+
+#: metabox-functions.php:142
+msgid "Individual Link to Offer Reservation"
+msgstr ""
+
+#: metabox-functions.php:203
+msgid "Amenities"
+msgstr ""
+
+#: metabox-functions.php:208
+msgid "Amenities Description"
+msgstr ""
+
+#: metabox-functions.php:219
+msgid "Amenity {#}"
+msgstr ""
+
+#: metabox-functions.php:249
+msgid "Room Google Maps"
+msgstr ""
+
+#: metabox-functions.php:254
+msgid "Map Type"
+msgstr ""
+
+#: metabox-functions.php:260
+msgid "Road Map"
+msgstr ""
+
+#: metabox-functions.php:261
+msgid "Satellite"
+msgstr ""
+
+#: metabox-functions.php:262
+msgid "Hybrid"
+msgstr ""
+
+#: metabox-functions.php:263
+msgid "Terrain"
+msgstr ""
+
+#: metabox-functions.php:267
+msgid "Map Style"
+msgstr ""
+
+#: metabox-functions.php:273
+msgid "Shades of Grey"
+msgstr ""
+
+#: metabox-functions.php:274
+msgid "Greyscale"
+msgstr ""
+
+#: metabox-functions.php:275
+msgid "Light Gray"
+msgstr ""
+
+#: metabox-functions.php:276
+msgid "Midnight Commander"
+msgstr ""
+
+#: metabox-functions.php:277
+msgid "Blue water"
+msgstr ""
+
+#: metabox-functions.php:278
+msgid "Icy Blue"
+msgstr ""
+
+#: metabox-functions.php:279
+msgid "Bright and Bubbly"
+msgstr ""
+
+#: metabox-functions.php:280
+msgid "Pale Dawn"
+msgstr ""
+
+#: metabox-functions.php:281
+msgid "Paper"
+msgstr ""
+
+#: metabox-functions.php:282
+msgid "Blue Essence"
+msgstr ""
+
+#: metabox-functions.php:283
+msgid "Apple Maps-esque"
+msgstr ""
+
+#: metabox-functions.php:284
+msgid "Subtle Grayscale"
+msgstr ""
+
+#: metabox-functions.php:285
+msgid "Retro"
+msgstr ""
+
+#: metabox-functions.php:286
+msgid "Hopper"
+msgstr ""
+
+#: metabox-functions.php:287
+msgid "Red Hues"
+msgstr ""
+
+#: metabox-functions.php:288
+msgid "Ultra Light with labels"
+msgstr ""
+
+#: metabox-functions.php:289
+msgid "Unsaturated Browns"
+msgstr ""
+
+#: metabox-functions.php:290
+msgid "Light Dream"
+msgstr ""
+
+#: metabox-functions.php:291
+msgid "Neutral Blue"
+msgstr ""
+
+#: metabox-functions.php:292
+msgid "MapBox"
+msgstr ""
+
+#: metabox-functions.php:296
+msgid "Height"
+msgstr ""
+
+#: metabox-functions.php:302
+msgid "Latitude"
+msgstr ""
+
+#: metabox-functions.php:307
+msgid "Longitude"
+msgstr ""
+
+#: metabox-functions.php:312
+msgid "Zoom"
+msgstr ""
+
+#: metabox-functions.php:318
+msgid "Show Marker"
+msgstr ""
+
+#: metabox-functions.php:324
+msgid "Yes"
+msgstr ""
+
+#: metabox-functions.php:325
+msgid "No"
+msgstr ""
+
+#: metabox-functions.php:331
+msgid "Room Custom Content"
+msgstr ""
+
+#: metabox-functions.php:336
+msgid "Custom Content"
+msgstr ""
+
+#: search.php:15
+msgid "Search"
+msgstr ""
+
+#: searchform.php:5
+msgid "Type keywords here"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:51
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:61
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:72
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:107
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:119
+msgid "Check Availability"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:121
+msgid "No order has been made yet."
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:22
+msgid "Customer Details"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:27
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:34
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:41
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:57
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:60
+#: woocommerce/order/order-details-customer.php:71
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:68
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/order/order-details.php:28
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:32
+msgid "Product"
+msgstr ""
+
+#: woocommerce/order/order-details.php:33
+msgid "Total"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Calluna"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://calluna.themetwins.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Calluna WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themetwins"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/themetwins/portfolio"
+msgstr ""

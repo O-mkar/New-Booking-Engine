@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Weather Shortcode & Widget\n"
+"POT-Creation-Date: 2013-11-06 13:58+0200\n"
+"PO-Revision-Date: 2013-11-06 14:01+0200\n"
+"Last-Translator: Radu Cretu <ameriza@gmail.com>\n"
+"Language-Team: Curly Themes <support@curlythemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simple-weather-widget.php:33
+msgid "Simple Weather Widget"
+msgstr "Simple Weather Widget"
+
+#: simple-weather-widget.php:34
+msgid "This widget displays the weather"
+msgstr "Acest widget afișează vremea"
+
+#: simple-weather-widget.php:92
+msgid "Humidity:"
+msgstr "Umiditate:"
+
+#: simple-weather-widget.php:93
+msgid "Clouds:"
+msgstr "Nori:"
+
+#: simple-weather-widget.php:94
+msgid "Wind"
+msgstr "Vânt:"
+
+#: simple-weather-widget.php:162
+msgid "Widget Title:"
+msgstr "Titlu Widget:"
+
+#: simple-weather-widget.php:166
+msgid "Location Type:"
+msgstr "Tipul Locației:"
+
+#: simple-weather-widget.php:174
+msgid "Location:"
+msgstr "Locație:"
+
+#: simple-weather-widget.php:179
+msgid "Location Latitude:"
+msgstr "Latitudinea Locației:"
+
+#: simple-weather-widget.php:183
+msgid "Location Longitude:"
+msgstr "Longitudinea Locației:"
+
+#: simple-weather-widget.php:187
+msgid "Units:"
+msgstr "Unitati:"
+
+#: simple-weather-widget.php:194
+msgid "Days of forecast:"
+msgstr "Nr. zile pt. prognoză:"
+
+#: simple-weather-widget.php:207
+msgid "Language:"
+msgstr "Limba"
+
+#: simple-weather-widget.php:228
+msgid "Widget Styling"
+msgstr "Stilul Widget-ului"
+
+#: simple-weather-widget.php:259
+msgid "Background Color"
+msgstr "Culoare de fundal"
+
+#: simple-weather-widget.php:263
+msgid "Text Color"
+msgstr "Culoare text"

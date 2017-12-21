@@ -1,0 +1,12 @@
+.wpb_bootstrap_modals .modal {
+	z-index: 10000;
+}
+i.calluna_vc_icon {
+	background-image: url(../images/calluna_vc_icon.gif) !important;
+}
+
+.vc_grid.vc_grid-owl-theme .vc_grid-owl-nav {
+    cursor: pointer;
+    opacity: 1 !important;
+    transition: opacity 0s ease-in 0s !important;
+}

@@ -1,0 +1,152 @@
+/**
+ *  Master Slider Calluna Skin
+ *
+ * This file does not load by Masterslider and is just for those who wants 
+ * to know how skin file is structured and let them to create their own custom skin
+ * If you want to create your own custom skin you need to replace "ms-skin-default" with your unique skin name
+ */
+
+.ms-skin-calluna .ms-slide .ms-slide-vpbtn,
+.ms-skin-calluna .ms-video-btn{
+	width: 50px;
+	height: 51px;
+	background: url(images/masterslider-calluna-skin.png) no-repeat -14px -150px;
+	top: 50%;
+	left: 50%;
+	margin: -25px 0 0 -25px;
+}
+
+.ms-skin-calluna .ms-slide .ms-slide-vcbtn {
+	width: 30px;
+	height: 30px;
+	background: url(images/masterslider-calluna-skin.png) no-repeat -24px -28px;
+	top: 18px;
+	right: 30px;
+}
+
+/* controls */
+
+.ms-skin-calluna .ms-nav-next,
+.ms-skin-calluna .ms-nav-prev {
+	width: 36px;
+	background: url(images/masterslider-calluna-leftarrow.png)no-repeat;
+	height: 24px;
+	cursor: pointer;
+	top: 50%;
+	left: 50px;
+	margin-top: -20px;
+	position: absolute;
+	z-index: 10;
+}
+.ms-skin-calluna .ms-nav-next {
+	right: 50px;
+	left: auto;
+	background: url(images/masterslider-calluna-rightarrow.png) no-repeat;
+
+}
+
+
+
+.ms-skin-calluna .ms-bullet {
+	width: 14px;
+	height: 14px;
+	background: url(images/masterslider-calluna-bullet.png) no-repeat;
+	margin: 4px;
+}
+
+.ms-skin-calluna .ms-bullet-selected {
+		width: 14px;
+		height: 14px;
+		background: url(images/masterslider-calluna-bullet-selected.png) no-repeat;
+}
+
+.ms-skin-calluna .ms-tooltip{
+	position: absolute;
+	z-index: 110;
+	cursor: auto;
+}
+
+.ms-skin-calluna .ms-tooltip-top .ms-tooltip-arrow,
+.ms-skin-calluna .ms-tooltip-bottom .ms-tooltip-arrow{
+	border-left: solid 10px transparent;
+	border-right: solid 10px transparent;
+	position: absolute;
+	left: 50%;
+	margin-left: -10px;
+}
+
+.ms-skin-calluna .ms-tooltip-top .ms-tooltip-arrow{
+	border-top: solid 10px;
+	border-top-color: silver;
+	border-top-color: rgba(240, 240, 240, 0.88);
+	bottom: -10px;
+}
+
+.ms-skin-calluna .ms-tooltip-bottom .ms-tooltip-arrow {
+	border-bottom: solid 10px;
+	border-bottom-color: silver;
+	border-bottom-color: rgba(240, 240, 240, 0.88);
+	top: -10px;
+}
+
+.ms-skin-calluna .ms-tooltip-right .ms-tooltip-arrow,
+.ms-skin-calluna .ms-tooltip-left .ms-tooltip-arrow{
+	border-top: solid 10px transparent;
+	border-bottom: solid 10px transparent;
+	position: absolute;
+	top: 50%;
+	margin-top: -10px;
+}
+
+.ms-skin-calluna .ms-tooltip-right .ms-tooltip-arrow{
+	border-right: solid 10px;
+	border-right-color: silver;
+	border-right-color: rgba(240, 240, 240, 0.88);
+	left: -10px;
+}
+
+.ms-skin-calluna .ms-tooltip-left .ms-tooltip-arrow {
+	border-left: solid 10px;
+	border-left-color: silver;
+	border-left-color: rgba(240, 240, 240, 0.88);
+	right: -10px;
+}
+
+.ms-skin-calluna .ms-tooltip-point {cursor: pointer;}
+.ms-skin-calluna .ms-tooltip-point .ms-point-center {
+	width: 12px;
+	height: 12px; 
+	border-radius: 15px;
+	border: solid 2px #BBB;
+	background: white;
+	margin: -8px 0 0 -8px;
+	position: absolute;
+	z-index: 5;
+}
+
+.ms-skin-calluna .ms-tooltip-point .ms-point-border {
+	width: 22px;
+	height: 22px; 
+	background: black;
+	background:rgba(0, 0, 0, 0.36);
+	margin: -11px 0 0 -11px;
+	position: absolute;
+	border-radius: 15px;
+	
+	animation: point-anim 1.5s infinite ;
+	-moz-animation: point-anim 1.5s infinite;
+	-webkit-animation: point-anim 1.5s infinite;
+	-o-animation: point-anim 1.5s infinite;
+}
+
+.ms-skin-calluna .ms-tooltip {
+	max-width:200px;
+}
+
+.ms-skin-calluna .ms-tooltip-cont {
+	padding: 10px;
+	background: silver;
+	background: rgba(240, 240, 240, 0.88);
+	text-shadow: 0 1px 0px white;
+	margin-left: -1px;
+}

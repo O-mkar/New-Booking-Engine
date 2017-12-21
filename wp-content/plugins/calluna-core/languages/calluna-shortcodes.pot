@@ -1,0 +1,3203 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Calluna Core Plugin\n"
+"POT-Creation-Date: 2017-08-10 12:47+0100\n"
+"PO-Revision-Date: 2017-08-10 12:47+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: calluna-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/admin-pages/welcome.php:34
+msgid "Welcome to "
+msgstr ""
+
+#: admin/admin-pages/welcome.php:37
+#, php-format
+msgid ""
+"%s is up and running! Check that all the requirements below are fulfilled "
+"and labeled in green.<br>Enjoy and free your imagination with %s!"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:41
+msgid "System Status"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:42
+msgid "Install Demo"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:43
+msgid "Theme Options"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:49
+msgid "WordPress Environment"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:54
+msgid "Home URL"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:55
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:59
+msgid "Site URL"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:60
+msgid "The root URL of your site."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:64
+msgid "WP Version"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:65
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:69
+msgid "WP Multisite"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:70
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:74
+msgid "WP Memory Limit"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:75
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:80
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 64MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:87
+msgid "WP Debug Mode"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:88
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:92
+#: calluna-shortcodes/visual-composer/parts/vc_wpml.php:15
+msgid "Language"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:93
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:101
+msgid "Server Environment"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:106
+msgid "Server Info"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:107
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:111
+msgid "PHP Version"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:112
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:120
+msgid "The recommended version is the 5.6."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:122
+msgid ""
+"You are running an obsolete version of PHP. For your security and a proper "
+"functioning of the theme you have to upgrade it a newer version (5.6 is "
+"recommended). Please contact your hosting provider."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:125
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:131
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:132
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:136 admin/admin-pages/welcome.php:190
+#, php-format
+msgid ""
+"%s - Recommended value is at least 32. <a href=\"%s\" target=\"_blank"
+"\">Please increase it.</a>"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:143
+msgid "PHP Time Limit"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:144
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:148
+#, php-format
+msgid ""
+"%s - Recommended value is at least 120. <a href=\"%s\" target=\"_blank"
+"\">Please increase it.</a>"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:158
+#, php-format
+msgid ""
+"Recommended value is at least 3000. <a href=\"%s\">Please increase it.</a>"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:163
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:164
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:168
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:169
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself. If "
+"enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:174
+msgid "MySQL Version"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:175
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:185
+msgid "Max Upload Size"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:186 admin/admin-pages/welcome.php:198
+msgid ""
+"The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:197
+msgid "Allow URL fopen"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:201
+#, php-format
+msgid ""
+"Disabled - For the import of the demo data this value needs to be enabled. "
+"<a href=\"%s\" target=\"_blank\">Please enabled it.</a>"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:203
+msgid "Enabled"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:208
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:209
+msgid "The default timezone for your server."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:213
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:224
+msgid "Theme"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:232 calluna-shortcodes/inc/commons.php:79
+#: calluna-shortcodes/inc/commons.php:92
+msgid "Name"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:233
+msgid "The name of the current active theme."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:237
+msgid "Version"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:238
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:243
+msgid "is available"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:248
+msgid "Author URL"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:249
+msgid "The theme developers URL."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:253
+msgid "Child Theme"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:254
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:256
+#, php-format
+msgid ""
+"If you're modifying calluna or a parent theme you didn't build personally, "
+"we recommend using a child theme. See: <a href=\"%s\" target=\"_blank\">How "
+"to create a child theme</a>"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:264
+msgid "Parent Theme Name"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:265
+msgid "The name of the parent theme."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:269
+msgid "Parent Theme Version"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:270
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:274
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:275
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: admin/admin-pages/welcome.php:284
+msgid "Active Plugins"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:308
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: admin/admin-pages/welcome.php:314
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-customizer-importer.php:36
+#, php-format
+msgid "The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-customizer-importer.php:56
+msgid ""
+"The customizer import file is not in a correct format. Please make sure to "
+"use the correct customizer import file."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-customizer-importer.php:62
+msgid ""
+"The customizer import file is not suitable for current theme. You can only "
+"import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:70
+#, php-format
+msgid ""
+"\"import_file_url\" or \"local_import_file\" for %s%s%s are not defined!"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:205
+#, php-format
+msgid "URL for %s%s%s file is not defined!"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:227
+#, php-format
+msgid ""
+"An error occurred while fetching %s%s%s file from the server!%sReason: %s - "
+"%s."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:267
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:311
+#, php-format
+msgid ""
+"An error occurred while writing file to your server! Tried to write a file "
+"to: %s%s."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:346
+#, php-format
+msgid ""
+"An error occurred while reading a file from your server! Tried reading file "
+"from path: %s%s."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:370
+#, php-format
+msgid ""
+"This WordPress page does not have %sdirect%s write file access. This plugin "
+"needs it in order to save the demo import xml file to the upload directory "
+"of your site. You can change this setting with these instructions: %s."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:381
+msgid "One Click Demo Import"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:382
+#: calluna-demo-importer/inc/class-ocdi-main.php:238
+msgid "Import Demo Data"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:394
+msgid ""
+"An error occurred while retrieving reading/writing permissions to your "
+"server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:402
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:467
+msgid "One Click Demo Import - "
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:503
+#, php-format
+msgid ""
+"%sYour user role isn't high enough. You don't have permission to import demo "
+"data.%s"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:539
+msgid ""
+"Please upload XML file for content import. If you want to import widgets or "
+"customizer settings only, please use Widget Importer & Exporter or the "
+"Customizer Export/Import plugin."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:541
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:563
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:582
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:590
+msgid "Upload files"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:559
+#, php-format
+msgid "Widget file was not uploaded. Error: %s"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:578
+#, php-format
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:588
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:606
+#, php-format
+msgid "Initial max execution time = %s"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:610
+#, php-format
+msgid ""
+"Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s"
+"%1$sCustomizer file = %5$s"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:614
+#: calluna-demo-importer/inc/class-ocdi-helpers.php:615
+msgid "not defined!"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:82
+#: calluna-demo-importer/inc/class-ocdi-main.php:83
+msgid "Calluna Demo Import"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:101
+msgid "GymX Demo Importer"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:108
+#, php-format
+msgid ""
+"%sWarning: your server is using %sPHP safe mode%s. This means that you might "
+"experience server timeout errors.%s"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:121
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:127
+msgid ""
+"Importing demo data (post, pages, images, theme settings, ...) is the "
+"easiest way to setup your theme."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:128
+msgid ""
+"It will allow you to quickly edit everything instead of creating content "
+"from scratch."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:134
+msgid "Important Notes:"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:136
+msgid ""
+"No existing posts, pages, categories, images, custom post types or any other "
+"data will be deleted or modified."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:137
+msgid "We recommend to run the Demo Import on a clean WordPress installation."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:138
+#, php-format
+msgid ""
+"To reset your installation (if the import fails) we recommend <a href=\"%s\" "
+"target=\"_blank\">WordPress Reset Plugin</a>."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:139
+msgid ""
+"The Demo Import will not import the images we have used in our live demo, "
+"due to copyright / license reasons."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:140
+msgid ""
+"Do not run the Demo Import multiple times, it will result in duplicated "
+"content."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:159
+msgid ""
+"There are no predefined import files available in this theme. Please upload "
+"the import files manually!"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:164
+msgid "Manual demo files upload"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:167
+msgid "Choose a XML file for content import:"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:172
+msgid "Choose a WIE or JSON file for widget import:"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:172
+#: calluna-demo-importer/inc/class-ocdi-main.php:177
+msgid "(*optional)"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:177
+msgid "Choose a DAT file for customizer import:"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:187
+msgid "Choose which demo you want to import:"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:212
+msgid "Import preview:"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:216
+#: calluna-demo-importer/inc/class-ocdi-main.php:270
+msgid "No preview image defined for this import."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:242
+msgid "Importing, please wait!"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:327
+msgid "Manually uploaded files"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:344
+#: calluna-demo-importer/inc/class-ocdi-main.php:355
+msgid "Downloaded files"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:351
+#, php-format
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:361
+msgid "No import files specified!"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:414
+#, php-format
+msgid ""
+"%1$s%3$sThat's it, all done!%4$s%2$sThe demo import has finished. Please "
+"check your page and make sure that everything has imported correctly.%5$s"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:425
+#, php-format
+msgid ""
+"%1$sThe demo import has finished, but there were some import errors.%2$sMore "
+"details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:479
+msgid "Max execution time after content import = "
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:481
+msgid "Importing content"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:520
+#: calluna-demo-importer/inc/class-ocdi-main.php:532
+msgid "Importing widgets"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:554
+#: calluna-demo-importer/inc/class-ocdi-main.php:562
+msgid "Importing customizer settings"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:560
+msgid "Customizer settings import finished!"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:583
+#: calluna-demo-importer/inc/class-ocdi-main.php:591
+msgid "Importing revslider"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:589
+msgid "Revslider import finished!"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-main.php:640
+msgid "Completed AJAX call number: "
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-widget-importer.php:44
+msgid "Widget import file could not be found."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-widget-importer.php:76
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-widget-importer.php:116
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-widget-importer.php:138
+msgid "Site does not support widget"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-widget-importer.php:173
+msgid "Widget already exists"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-widget-importer.php:232
+msgid "Imported"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-widget-importer.php:236
+msgid "Imported to Inactive"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-widget-importer.php:242
+msgid "No Title"
+msgstr ""
+
+#: calluna-demo-importer/inc/class-ocdi-widget-importer.php:291
+msgid "No results for widget import!"
+msgstr ""
+
+#: calluna-demo-importer/one-click-demo-import.php:17
+#, php-format
+msgid ""
+"The %2$sOne Click Demo Import%3$s plugin requires %2$sPHP 5.3.2+%3$s to run "
+"properly. Please contact your hosting company and ask them to update the PHP "
+"version of your site to at least PHP 5.3.2.%4$s Your current version of PHP: "
+"%2$s%1$s%3$s"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:130
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:166
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:282
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:355
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:504
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:564
+msgid "Invalid author mapping"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:665
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:753
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:763
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:841
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:855
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:887
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1705
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:892
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1036
+msgid "Invalid file type"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1519
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1540
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1544
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1681
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1710
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1763
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1776
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1781
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1787
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1809
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1822
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1827
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1841
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1846
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1872
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1883
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1928
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1933
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1955
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1959
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1973
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1977
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: calluna-demo-importer/vendor/humanmade/WordPress-Importer/class-wxr-importer.php:1994
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:17
+msgctxt "Event Post Type Label"
+msgid "Events"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:53
+msgid "Event"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:65
+#: calluna-post-types/event/event_init.php:189
+#: calluna-post-types/offer/offer_init.php:65
+#: calluna-post-types/offer/offer_init.php:189
+msgid "Add New"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:66
+#: calluna-post-types/event/event_init.php:68
+msgid "Add New Event"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:67
+msgid "Edit Event"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:69
+msgid "View Event"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:70
+msgid "Search Events"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:71
+msgid "No Events Found"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:72
+msgid "No Events Found In Trash"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:121
+msgid "Event Tags"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:130
+msgid "Search Event Tags"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:131
+msgid "Popular Event Tags"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:132
+msgid "All Event Tags"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:133
+msgid "Parent Event Tag"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:134
+msgid "Parent Event Tag:"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:135
+msgid "Edit Event Tag"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:136
+msgid "Update Event Tag"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:137
+msgid "Add New Event Tag"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:138
+msgid "New Event Tag Name"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:139
+msgid "Separate event tags with commas"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:140
+msgid "Add or remove event tags"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:141
+msgid "Choose from the most used event tags"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:173
+msgid "Event Categories"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:182
+#: calluna-post-types/offer/offer_init.php:182
+msgid "Search"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:183
+#: calluna-post-types/offer/offer_init.php:183
+msgid "Popular"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:184
+#: calluna-post-types/offer/offer_init.php:184
+#: meta-box/inc/fields/select.php:87
+msgid "All"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:185
+#: calluna-post-types/event/event_init.php:186
+#: calluna-post-types/offer/offer_init.php:185
+#: calluna-post-types/offer/offer_init.php:186
+msgid "Parent"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:187
+#: calluna-post-types/offer/offer_init.php:187
+msgid "Edit"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:188
+#: calluna-post-types/offer/offer_init.php:188
+msgid "Update"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:190
+#: calluna-post-types/offer/offer_init.php:190
+msgid "New"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:191
+#: calluna-post-types/offer/offer_init.php:191
+msgid "Separate with commas"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:192
+#: calluna-post-types/offer/offer_init.php:192
+msgid "Add or remove"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:193
+#: calluna-post-types/offer/offer_init.php:193
+msgid "Choose from the most used"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:223
+msgid "Event Date"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:224
+msgid "Event Time"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:225
+#: calluna-post-types/offer/offer_init.php:224
+msgid "Category"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:226
+#: calluna-post-types/offer/offer_init.php:225
+msgid "Tags"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:311
+#: calluna-post-types/event/event_init.php:312
+#: calluna-post-types/event/event_init.php:367
+#: calluna-post-types/offer/offer_init.php:303
+#: calluna-post-types/offer/offer_init.php:304
+#: calluna-post-types/offer/offer_init.php:359
+msgid "Post Type Editor"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:353
+#: calluna-post-types/offer/offer_init.php:345
+msgid "Settings saved."
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:370
+msgid ""
+"If you change any slug's you must reset your permalinks to prevent 404 "
+"errors."
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:373
+#: calluna-post-types/offer/offer_init.php:365
+msgid "Admin Icon"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:380
+#: calluna-post-types/offer/offer_init.php:372
+#: calluna-shortcodes/inc/commons.php:67
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:47
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:135
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:193
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:284
+msgid "Default"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:388
+#: calluna-post-types/offer/offer_init.php:380
+msgid "Post Type: Name"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:392
+#: calluna-post-types/offer/offer_init.php:384
+msgid "Post Type: Singular Name"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:396
+#: calluna-post-types/offer/offer_init.php:388
+msgid "Post Type: Slug"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:400
+#: calluna-post-types/offer/offer_init.php:392
+msgid "Tags: Label"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:404
+#: calluna-post-types/offer/offer_init.php:396
+msgid "Tags: Slug"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:408
+#: calluna-post-types/offer/offer_init.php:400
+msgid "Categories: Label"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:412
+#: calluna-post-types/offer/offer_init.php:404
+msgid "Categories: Slug"
+msgstr ""
+
+#: calluna-post-types/event/event_init.php:438
+#: calluna-post-types/offer/offer_init.php:430
+msgid "Sidebar"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:17
+msgctxt "Offer Post Type Label"
+msgid "Offers"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:53
+msgid "Offer"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:66
+#: calluna-post-types/offer/offer_init.php:68
+msgid "Add New Offer"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:67
+msgid "Edit Offer"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:69
+msgid "View Offer"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:70
+msgid "Search Offers"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:71
+msgid "No Offers Found"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:72
+msgid "No Offers Found In Trash"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:121
+msgid "Offer Tags"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:130
+msgid "Search Offer Tags"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:131
+msgid "Popular Offer Tags"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:132
+msgid "All Offer Tags"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:133
+msgid "Parent Offer Tag"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:134
+msgid "Parent Offer Tag:"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:135
+msgid "Edit Offer Tag"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:136
+msgid "Update Offer Tag"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:137
+msgid "Add New Offer Tag"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:138
+msgid "New Offer Tag Name"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:139
+msgid "Separate offer tags with commas"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:140
+msgid "Add or remove offer tags"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:141
+msgid "Choose from the most used offer tags"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:173
+msgid "Offer Categories"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:223
+msgid "Price"
+msgstr ""
+
+#: calluna-post-types/offer/offer_init.php:362
+msgid ""
+"If you change any slug's you must reset your permalinks to proffer 404 "
+"errors."
+msgstr ""
+
+#: calluna-shortcodes/inc/commons.php:54
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:26
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:65
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:74
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:37
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:106
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:104
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:66
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:75
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:52
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:103
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:124
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:133
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:149
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:17
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:66
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:106
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:105
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:145
+#: calluna-shortcodes/visual-composer/parts/vc_skillbar.php:43
+#: calluna-shortcodes/visual-composer/parts/vc_testimonial.php:49
+#: meta-box/inc/fields/checkbox.php:50
+msgid "No"
+msgstr ""
+
+#: calluna-shortcodes/inc/commons.php:55
+msgid "From Bottom"
+msgstr ""
+
+#: calluna-shortcodes/inc/commons.php:56
+msgid "From Top"
+msgstr ""
+
+#: calluna-shortcodes/inc/commons.php:57
+msgid "From Left"
+msgstr ""
+
+#: calluna-shortcodes/inc/commons.php:58
+msgid "From Right"
+msgstr ""
+
+#: calluna-shortcodes/inc/commons.php:59
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:22
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:34
+#: calluna-shortcodes/visual-composer/parts/vc_testimonial.php:45
+msgid "Fade In"
+msgstr ""
+
+#: calluna-shortcodes/inc/commons.php:68
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:28
+msgid "Small"
+msgstr ""
+
+#: calluna-shortcodes/inc/commons.php:69
+msgid "Medium"
+msgstr ""
+
+#: calluna-shortcodes/inc/commons.php:70
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:26
+msgid "Large"
+msgstr ""
+
+#: calluna-shortcodes/inc/commons.php:78 calluna-shortcodes/inc/commons.php:91
+#: calluna-shortcodes/visual-composer/parts/vc_weather.php:59
+msgid "Date"
+msgstr ""
+
+#: calluna-shortcodes/inc/commons.php:80
+msgid "Modified"
+msgstr ""
+
+#: calluna-shortcodes/inc/commons.php:81
+#: calluna-shortcodes/visual-composer/parts/vc_testimonial.php:14
+msgid "Author"
+msgstr ""
+
+#: calluna-shortcodes/inc/commons.php:82
+msgid "Random"
+msgstr ""
+
+#: calluna-shortcodes/inc/commons.php:83
+msgid "Comment Count"
+msgstr ""
+
+#: calluna-shortcodes/inc/commons.php:93
+msgid "IDs"
+msgstr ""
+
+#: calluna-shortcodes/inc/commons.php:94
+msgid "Menu Order"
+msgstr ""
+
+#: calluna-shortcodes/shortcodes/parts/booking-calendar-new.php:38
+#: calluna-shortcodes/shortcodes/parts/booking-calendar.php:81
+#: calluna-shortcodes/shortcodes/parts/datepicker.php:38
+#: calluna-shortcodes/shortcodes/parts/single-booking-calendar.php:81
+msgid "ARRIVING"
+msgstr ""
+
+#: calluna-shortcodes/shortcodes/parts/booking-calendar-new.php:52
+#: calluna-shortcodes/shortcodes/parts/booking-calendar.php:95
+#: calluna-shortcodes/shortcodes/parts/datepicker.php:52
+#: calluna-shortcodes/shortcodes/parts/single-booking-calendar.php:95
+msgid "DEPARTING"
+msgstr ""
+
+#: calluna-shortcodes/shortcodes/parts/booking-calendar-new.php:66
+#: calluna-shortcodes/shortcodes/parts/booking-calendar.php:109
+#: calluna-shortcodes/shortcodes/parts/datepicker.php:66
+#: calluna-shortcodes/shortcodes/parts/single-booking-calendar.php:109
+msgid "GUESTS"
+msgstr ""
+
+#: calluna-shortcodes/shortcodes/parts/booking-calendar-new.php:79
+#: calluna-shortcodes/shortcodes/parts/booking-calendar.php:122
+#: calluna-shortcodes/shortcodes/parts/datepicker.php:79
+#: calluna-shortcodes/shortcodes/parts/single-booking-calendar.php:122
+msgid "Guests"
+msgstr ""
+
+#: calluna-shortcodes/shortcodes/parts/button.php:10
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:24
+msgid "Button"
+msgstr ""
+
+#: calluna-shortcodes/shortcodes/parts/button.php:58
+msgid "Please enter a valid URL and title for your button."
+msgstr ""
+
+#: calluna-shortcodes/shortcodes/parts/callout.php:14
+msgid "Callout button"
+msgstr ""
+
+#: calluna-shortcodes/shortcodes/parts/google-map.php:20
+msgid ""
+"You have add a Google Map without an API Key. Please enter your own Google "
+"Maps API Key to show the map."
+msgstr ""
+
+#: calluna-shortcodes/shortcodes/parts/heading.php:8
+msgid "Sample Heading"
+msgstr ""
+
+#: calluna-shortcodes/shortcodes/parts/image-gallery.php:66
+msgid "No data to display."
+msgstr ""
+
+#: calluna-shortcodes/shortcodes/parts/post-grid.php:27
+msgid "read more"
+msgstr ""
+
+#: calluna-shortcodes/shortcodes/parts/post-grid.php:36
+msgid "Sorry the post type you have selected does not exist"
+msgstr ""
+
+#: calluna-shortcodes/shortcodes/parts/post-grid.php:49
+msgid "Your selected taxonomy does not exist"
+msgstr ""
+
+#: calluna-shortcodes/shortcodes/parts/post-grid.php:50
+msgid "Your selected term does not exist"
+msgstr ""
+
+#: calluna-shortcodes/shortcodes/parts/post-grid.php:100
+#, php-format
+msgid ""
+"<span class=\"calluna-recent-posts-entry-posted-on\">posted on %1$s</span>"
+msgstr ""
+
+#: calluna-shortcodes/shortcodes/parts/wpml.php:13
+msgid ""
+"WPML ICL_LANGUAGE_CODE constant does not exist. If you want to translate "
+"something please first install the WPML plugin."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_booking-calendar.php:6
+#: calluna-shortcodes/visual-composer/parts/vc_datepicker.php:6
+msgid "Calluna Booking Calendar"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_booking-calendar.php:7
+#: calluna-shortcodes/visual-composer/parts/vc_datepicker.php:7
+msgid "Choose dates"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_booking-calendar.php:10
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:10
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:9
+#: calluna-shortcodes/visual-composer/parts/vc_content-image.php:11
+#: calluna-shortcodes/visual-composer/parts/vc_datepicker.php:12
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:11
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:9
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:11
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:9
+#: calluna-shortcodes/visual-composer/parts/vc_highlight.php:9
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:8
+#: calluna-shortcodes/visual-composer/parts/vc_image-gallery.php:11
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:11
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:9
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:9
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:9
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:9
+#: calluna-shortcodes/visual-composer/parts/vc_skillbar.php:11
+#: calluna-shortcodes/visual-composer/parts/vc_teaser.php:11
+#: calluna-shortcodes/visual-composer/parts/vc_testimonial.php:9
+#: calluna-shortcodes/visual-composer/parts/vc_time.php:12
+#: calluna-shortcodes/visual-composer/parts/vc_weather.php:12
+#: calluna-shortcodes/visual-composer/parts/vc_wpml.php:9
+#: calluna-shortcodes/visual-composer/vc_init.php:13
+msgid "Calluna"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_booking-calendar.php:16
+#: calluna-shortcodes/visual-composer/parts/vc_datepicker.php:19
+msgid "Info"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:7
+msgid "Calluna Button"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:9
+msgid "Calluna Shortcode Button"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:16
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:68
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:324
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:326
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:337
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:347
+msgid "URL"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:22
+msgid "Button Title"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:29
+msgid "Button Style"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:32
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:50
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:72
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:95
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:134
+msgid "Style 1"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:33
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:51
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:73
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:96
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:135
+msgid "Style 2"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:38
+msgid "Button Size"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:44
+msgid "Align"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:48
+msgid "Inline"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:49
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:47
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:74
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:137
+#: calluna-shortcodes/visual-composer/parts/vc_teaser.php:24
+msgid "Left"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:50
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:48
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:76
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:138
+#: calluna-shortcodes/visual-composer/parts/vc_teaser.php:26
+msgid "Right"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:55
+msgid "Link Target"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:58
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:66
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:333
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:88
+#: widgets/social-icons.php:217
+msgid "Self"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:59
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:67
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:334
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:89
+#: widgets/social-icons.php:216
+msgid "Blank"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:64
+msgid "Link Rel"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:67
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:75
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:65
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:285
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:344
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:93
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:97
+#: meta-box/inc/fields/select.php:87
+msgid "None"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:68
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:76
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:345
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:98
+msgid "Nofollow"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:73
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:81
+msgid "Icon Left"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_button.php:79
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:87
+msgid "Icon Right"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:6
+msgid "Calluna Callout"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:8
+msgid "Call to action area"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:15
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:18
+msgid "Callout Content"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:17
+#: calluna-shortcodes/visual-composer/parts/vc_teaser.php:34
+msgid "Enter your content here."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:24
+#: calluna-shortcodes/visual-composer/parts/vc_testimonial.php:47
+msgid "Fade In Animation"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:27
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:64
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:73
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:38
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:105
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:65
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:74
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:53
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:102
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:123
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:132
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:148
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:18
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:65
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:105
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:104
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:144
+#: calluna-shortcodes/visual-composer/parts/vc_skillbar.php:42
+#: calluna-shortcodes/visual-composer/parts/vc_testimonial.php:50
+#: meta-box/inc/fields/checkbox.php:50
+msgid "Yes"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:32
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:35
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:61
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:64
+msgid "Button: URL"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:39
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:42
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:54
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:57
+msgid "Button: Text"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:46
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:68
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:91
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:130
+msgid "Button: Style"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:48
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:70
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:93
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:132
+msgid "Select a button style."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:56
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:78
+msgid "Button: Size"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:58
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:80
+msgid "Select a button size."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:63
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:85
+msgid "Button: Link Target"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:72
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:94
+msgid "Button: Rel"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:81
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:103
+msgid "Button: Icon Left"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:83
+#, php-format
+msgid "Icon to the left of your button text. See all the icons at %s"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:88
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:109
+msgid "Button: Icon Right"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_callout.php:90
+#, php-format
+msgid "Icon to the right of your button text. See all the icons at %s"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_content-image.php:8
+msgid "Calluna Image with content"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_content-image.php:10
+msgid "Create images with content"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_content-image.php:15
+msgid "Choose Image"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_content-image.php:20
+msgid "Image & Content Layout"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_content-image.php:35
+#: calluna-shortcodes/visual-composer/parts/vc_content-image.php:38
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:303
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:306
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:312
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:318
+#: calluna-shortcodes/visual-composer/parts/vc_teaser.php:32
+#: calluna-shortcodes/visual-composer/parts/vc_wpml.php:23
+msgid "Content"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_content-image.php:37
+msgid "Don't forget to change this dummy text in your page editor."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:6
+msgid "Calluna Event Carousel"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:19
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:19
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:15
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:32
+msgid "Visible Items"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:27
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:27
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:23
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:40
+msgid "Maximum Items"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:35
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:35
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:31
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:70
+msgid "Categories"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:38
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:38
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:34
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:73
+msgid "Category Slugs - For example: sports, business, all"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:42
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:42
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:72
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:38
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:77
+msgid "Order"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:44
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:44
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:74
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:40
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:22
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:79
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:46
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:47
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:76
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:43
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:82
+msgid "DESC"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:47
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:46
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:77
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:42
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:81
+msgid "ASC"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:52
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:53
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:82
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:48
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:87
+msgid "Order By"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:54
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:55
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:84
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:50
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:89
+#, php-format
+msgid "Select how to sort retrieved posts. More at %s."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:61
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:62
+msgid "Show Featured Images?"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:70
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:71
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:99
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:62
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:101
+msgid "Thumbnail Crop"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:79
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:80
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:108
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:71
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:110
+msgid "Thumbnail Width"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:81
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:82
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:110
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:73
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:112
+msgid "Enter a width in pixels."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:85
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:86
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:114
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:77
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:116
+msgid "Thumbnail Height"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:87
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:88
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:116
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:79
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:118
+msgid ""
+"Enter a height in pixels. Set to \"9999\" to disable vertical cropping and "
+"keep image proportions."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:91
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:92
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:138
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:55
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:94
+msgid "Excerpt Length"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_event-carousel.php:94
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:95
+msgid "Excerpt Length, only used when event has no excerpt."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:6
+msgid "Calluna Font Awesome Icon"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:8
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:14
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:24
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:30
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:38
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:41
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:48
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:56
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:63
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:70
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:78
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:86
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:94
+msgid "Icon"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:21
+msgid "Icon Size"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:25
+msgid "Extra Large"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:27
+msgid "Normal"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:29
+msgid "Tiny"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:43
+msgid "Float"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:46
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:75
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:136
+#: calluna-shortcodes/visual-composer/parts/vc_teaser.php:25
+msgid "Center"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:53
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:53
+#: calluna-shortcodes/visual-composer/parts/vc_time.php:32
+msgid "Icon Color"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:58
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:170
+msgid "Background Color"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:63
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:223
+msgid "Border Radius"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_font-awesome-icon.php:74
+msgid "URL Title"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:6
+msgid "Calluna Google Map"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:18
+msgid "API Key"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:19
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">How to create API Key</a> for the google "
+"maps."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:27
+msgid "Map Type"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:30
+msgid "Road Map"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:31
+msgid "Satellite"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:32
+msgid "Hybrid"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:33
+msgid "Terrain"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:40
+msgid "Map Style"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:43
+msgid "Shades of Grey"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:44
+msgid "Greyscale"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:45
+msgid "Light Gray"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:46
+msgid "Midnight Commander"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:47
+msgid "Blue water"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:48
+msgid "Icy Blue"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:49
+msgid "Bright and Bubbly"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:50
+msgid "Pale Dawn"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:51
+msgid "Paper"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:52
+msgid "Blue Essence"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:53
+msgid "Apple Maps-esque"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:54
+msgid "Subtle Grayscale"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:55
+msgid "Retro"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:56
+msgid "Hopper"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:57
+msgid "Red Hues"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:58
+msgid "Ultra Light with labels"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:59
+msgid "Unsaturated Browns"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:60
+msgid "Light Dream"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:61
+msgid "Neutral Blue"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:62
+msgid "MapBox"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:70
+msgid "Height"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:78
+#: calluna-shortcodes/visual-composer/parts/vc_weather.php:28
+msgid "Latitude"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:86
+#: calluna-shortcodes/visual-composer/parts/vc_weather.php:37
+msgid "Longitude"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:94
+msgid "Zoom"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_google-map.php:102
+msgid "Show Marker?"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:6
+msgid "Calluna Heading"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:8
+msgid "Styled heading"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:15
+#: calluna-shortcodes/visual-composer/parts/vc_skillbar.php:17
+#: widgets/instagram.php:149
+msgid "Title"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:21
+msgid "Type"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:37
+msgid "Margin Top"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:42
+msgid "Margin Bottom"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:47
+msgid "Font Size"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:52
+msgid "Heading Color"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:57
+msgid "Span Background"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:62
+msgid "Heading Style"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:66
+msgid "Underline"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_heading.php:71
+#: calluna-shortcodes/visual-composer/parts/vc_teaser.php:21
+msgid "Text Alignment"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_highlight.php:6
+msgid "Calluna Highlight"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_highlight.php:8
+msgid "Text highlighter"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_highlight.php:14
+msgid "Color"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_highlight.php:17
+msgid "Blue"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_highlight.php:18
+msgid "Green"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_highlight.php:19
+msgid "Gray"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_highlight.php:20
+msgid "Red"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_highlight.php:21
+msgid "Yellow"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_highlight.php:27
+msgid "Highlighted Text"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_highlight.php:30
+msgid "Add the text to be highlighted."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:6
+msgid "Calluna Icon Box"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:10
+msgid "Content box with icon"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:14
+msgid "Extra class name"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:16
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:22
+msgid "Icon Image Alternative"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:28
+msgid "Icon Image Alternative Width"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:46
+msgid "Icon Font Alternative Classes"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:61
+msgid "Icon Background"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:68
+msgid "Icon Border Radius"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:75
+msgid "Icon Size In Pixels"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:83
+msgid "Fixed Icon Width"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:91
+msgid "Fixed Icon Height"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:101
+msgid "CSS Animation"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:105
+msgid "Top to bottom"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:106
+msgid "Bottom to top"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:107
+msgid "Left to right"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:108
+msgid "Right to left"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:109
+msgid "Appear from center"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:114
+msgid "Icon Box Style"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:117
+msgid "Left Icon"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:118
+msgid "Right Icon"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:119
+msgid "Top Icon"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:120
+msgid "Top Icon Style 2 (legacy)"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:121
+msgid "Outlined & Top Icon"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:122
+msgid "Boxed & Top Icon"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:123
+msgid "Boxed & Top Icon Style 2"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:128
+msgid "Alignment"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:143
+msgid "Icon Bottom Margin"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:152
+msgid "Container Left Padding"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:161
+msgid "Container Right Padding"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:179
+msgid "Background Image"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:182
+msgid "Select image from media library."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:190
+msgid "Background Image Style"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:194
+msgid "Stretched"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:195
+msgid "Fixed"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:196
+msgid "Repeat"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:205
+msgid "Border Color"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:214
+msgid "Padding"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:234
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:237
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:251
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:257
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:263
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:269
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:276
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:282
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:295
+msgid "Heading"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:241
+msgid "Heading Type"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:255
+msgid "Heading Font Color"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:261
+msgid "Heading Font Size"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:267
+msgid "Heading Font Weight"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:274
+msgid "Heading Letter Spacing"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:280
+msgid "Heading Text Transform"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:286
+msgid "Capitalize"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:287
+msgid "Uppercase"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:288
+msgid "Lowercase"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:293
+msgid "Heading Bottom Margin"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:305
+msgid ""
+"Don't forget to change this dummy text in your page editor for this lovely "
+"icon box."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:310
+msgid "Content Font Size"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:316
+msgid "Content Font Color"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:330
+msgid "URL Target"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:335
+msgid "Local"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:341
+msgid "URL Rel"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:353
+msgid "Bottom Margin"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_icon-box.php:355
+msgid "Margin"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_image-gallery.php:6
+msgid "Calluna Gallery"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_image-gallery.php:18
+msgid "Select images"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_image-gallery.php:26
+msgid "Image Links"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_image-gallery.php:29
+msgid "No Link"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_image-gallery.php:30
+msgid "Open Image in PrettyPhoto"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_image-gallery.php:31
+msgid "Link Image in new tab"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_offer-carousel.php:6
+msgid "Calluna Offer Carousel"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:6
+msgid "Post Grid"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:8
+msgid "Custom post type grid"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:14
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:14
+msgid "Unique Id"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:16
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:16
+msgid "You can enter a unique ID here for styling purposes."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:21
+msgid "Post Type"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:28
+msgid "Taxonomy"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:35
+msgid "Term Slug"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:37
+msgid ""
+"Enter the Term slug to get your posts from. This term must be a part of the "
+"taxonomy above. You can find your slug on your taxonomy dashboard. For "
+"regular posts that would be the Categories page."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:41
+msgid "Post Count"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:44
+msgid "How many items do you wish to show."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:48
+msgid "Pagination"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:50
+msgid "Note: Pagination will not work on your homepage."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:58
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:50
+#: widgets/instagram.php:153
+msgid "Columns"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:62
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:54
+msgid "1"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:63
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:55
+msgid "2"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:64
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:56
+msgid "3"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:65
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:57
+msgid "4"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:66
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:58
+msgid "5"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:67
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:59
+msgid "6"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:89
+msgid "Thumbnail Link"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:92
+msgid "Post"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:94
+msgid "Lightbox"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:120
+msgid "Display Title"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:129
+msgid "Display Excerpt"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:141
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:58
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:97
+msgid "How many words do you want to display for your excerpt?"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_post-grid.php:145
+msgid "Read More Link?"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:6
+msgid "Calluna Pricing Table"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:8
+msgid "Insert a pricing column"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:14
+msgid "Featured Pricing"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:24
+msgid "Plan"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:30
+msgid "Cost"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:36
+msgid "Per (optional)"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_pricing.php:42
+msgid "Features"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:6
+msgid "Calluna Room Carousel"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:83
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:122
+msgid "Button Text"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:85
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:124
+msgid "Enter a button text."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:86
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:125
+msgid "starting at"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:101
+msgid "Button: Show Price"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_room-carousel.php:103
+msgid "Show price on button."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:6
+msgid "Calluna Room Grid"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:8
+msgid "Show your rooms in a grid"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:20
+msgid "Style"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:24
+msgid "Image Overlay"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:25
+msgid "Classic"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:140
+msgid "Show Price"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_room-grid.php:142
+msgid "Show price"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_skillbar.php:8
+msgid "Calluna Skillbar"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_skillbar.php:10
+msgid "Animated percentage bar"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_skillbar.php:20
+msgid "Add your skillbar title."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_skillbar.php:25
+msgid "Percentage"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_skillbar.php:28
+msgid "Add a percentage value."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_skillbar.php:32
+msgid "Background"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_skillbar.php:35
+msgid "Choose your custom background color (Hex value)."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_skillbar.php:39
+msgid "Display % Number"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_teaser.php:6
+msgid "Calluna Teaser"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_teaser.php:16
+#: calluna-shortcodes/visual-composer/parts/vc_time.php:40
+msgid "Text Color"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_teaser.php:35
+msgid "Teaser Content"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_testimonial.php:6
+msgid "Calluna Testimonial"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_testimonial.php:8
+msgid "Single testimonial"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_testimonial.php:17
+msgid "Testimonial Author"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_testimonial.php:21
+msgid "Author Position"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_testimonial.php:24
+msgid "Testimonial Author Position"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_testimonial.php:30
+msgid "Author image"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_testimonial.php:38
+msgid "Testimonial Content"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_testimonial.php:40
+msgid "This product is amazing!"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_testimonial.php:41
+msgid "This is where your testimonial goes."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_time.php:6
+msgid "Calluna Local Time"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_time.php:7
+msgid "show the local time"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_time.php:20
+msgid "Time icon"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_time.php:21
+msgid "show time icon"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_time.php:24
+msgid "yes"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_time.php:25
+msgid "no"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_time.php:48
+msgid "Time Format"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_weather.php:6
+msgid "Calluna Weather"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_weather.php:7
+msgid "Show the weather"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_weather.php:19
+msgid "Location"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_weather.php:20
+msgid "Add city"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_weather.php:29
+msgid "Add latitude"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_weather.php:38
+msgid "Add longitude"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_weather.php:46
+msgid "Units"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_weather.php:47
+msgid "Internal, metric or imperial"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_weather.php:50
+msgid "Internal"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_weather.php:51
+msgid "Metric"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_weather.php:52
+msgid "Imperial"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_weather.php:60
+msgid "Date format according to: http://php.net/manual/ro/function.date.php"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_wpml.php:6
+msgid "WPML"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_wpml.php:8
+msgid "WPML translatable text."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/parts/vc_wpml.php:18
+msgid "Select a WPML language."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/vc_init.php:11
+msgid "Calluna Offer Price"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/vc_init.php:14
+msgid "Show the offer price"
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/vc_init.php:51
+msgid ""
+"After adding the calendar you can change the text and link for the "
+"reservation button and some additional texts with the theme customizer in "
+"the booking calendar section."
+msgstr ""
+
+#: calluna-shortcodes/visual-composer/vc_init.php:121
+msgid "Type in an icon name or select one from below"
+msgstr ""
+
+#: inc/image-resize.php:42
+msgid ""
+"Fatal Error: Image resize args are not an array, you must update your "
+"template files."
+msgstr ""
+
+#: meta-box/inc/core.php:33
+msgid "Documentation"
+msgstr ""
+
+#: meta-box/inc/core.php:34
+msgid "Extensions"
+msgstr ""
+
+#: meta-box/inc/field.php:350
+msgid "+ Add more"
+msgstr ""
+
+#: meta-box/inc/fields/autocomplete.php:20
+#: meta-box/inc/fields/autocomplete.php:81
+#: meta-box/inc/fields/autocomplete.php:93
+msgid "Delete"
+msgstr ""
+
+#: meta-box/inc/fields/button.php:32
+msgid "Click me"
+msgstr ""
+
+#: meta-box/inc/fields/file-input.php:19
+msgid "Select File"
+msgstr ""
+
+#: meta-box/inc/fields/file-input.php:38 meta-box/inc/fields/select.php:87
+msgid "Select"
+msgstr ""
+
+#: meta-box/inc/fields/file-input.php:40
+msgid "Remove"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:21
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:23
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:79
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:93
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:143
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:144
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: meta-box/inc/fields/input-list.php:90
+msgid "Select All / None"
+msgstr ""
+
+#: meta-box/inc/fields/key-value.php:126
+msgid "Key"
+msgstr ""
+
+#: meta-box/inc/fields/key-value.php:127
+msgid "Value"
+msgstr ""
+
+#: meta-box/inc/fields/map.php:62
+msgid "Find Address"
+msgstr ""
+
+#: meta-box/inc/fields/media.php:24
+msgctxt "media"
+msgid "+ Add Media"
+msgstr ""
+
+#: meta-box/inc/fields/media.php:25
+msgctxt "media"
+msgid " file"
+msgstr ""
+
+#: meta-box/inc/fields/media.php:26
+msgctxt "media"
+msgid " files"
+msgstr ""
+
+#: meta-box/inc/fields/media.php:27
+msgctxt "media"
+msgid "Remove"
+msgstr ""
+
+#: meta-box/inc/fields/media.php:28
+msgctxt "media"
+msgid "Edit"
+msgstr ""
+
+#: meta-box/inc/fields/media.php:29
+msgctxt "media"
+msgid "View"
+msgstr ""
+
+#: meta-box/inc/fields/media.php:30
+msgctxt "media"
+msgid "No Title"
+msgstr ""
+
+#: meta-box/inc/fields/media.php:33
+msgctxt "media"
+msgid "Select Files"
+msgstr ""
+
+#: meta-box/inc/fields/media.php:34
+msgctxt "media"
+msgid "or"
+msgstr ""
+
+#: meta-box/inc/fields/media.php:35
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr ""
+
+#: meta-box/inc/fields/oembed.php:64
+msgid "Embed HTML not available."
+msgstr ""
+
+#: meta-box/inc/fields/oembed.php:79
+msgid "Preview"
+msgstr ""
+
+#: meta-box/inc/fields/post.php:36
+msgid "Select a post"
+msgstr ""
+
+#: meta-box/inc/fields/post.php:41 meta-box/inc/fields/taxonomy.php:52
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: meta-box/inc/fields/select-advanced.php:45
+msgid "Select an item"
+msgstr ""
+
+#: meta-box/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr ""
+
+#: meta-box/inc/fields/thickbox-image.php:55
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: meta-box/inc/fields/user.php:30
+msgid "Select an user"
+msgstr ""
+
+#: meta-box/inc/validation.php:47
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: meta-box/meta-box-group/class-rwmb-group-field.php:277
+msgid "Entry {#}"
+msgstr ""
+
+#: meta-box/meta-box-group/class-rwmb-group-field.php:277
+msgid "Entry"
+msgstr ""
+
+#: widgets/events.php:16
+msgid "Calluna Events"
+msgstr ""
+
+#: widgets/events.php:17
+msgid "List with events"
+msgstr ""
+
+#: widgets/events.php:63 widgets/offers.php:56 widgets/rooms.php:59
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: widgets/events.php:87 widgets/offers.php:102 widgets/rooms.php:95
+#: widgets/social-icons.php:158
+msgid "Widget Title:"
+msgstr ""
+
+#: widgets/image.php:17
+msgid "Calluna Image"
+msgstr ""
+
+#: widgets/image.php:18
+msgid "Add image to any sidebar"
+msgstr ""
+
+#: widgets/image.php:50 widgets/image.php:53
+msgid "Widget image"
+msgstr ""
+
+#: widgets/image.php:108
+msgid "Image:"
+msgstr ""
+
+#: widgets/image.php:111
+msgid "Upload"
+msgstr ""
+
+#: widgets/image.php:115
+msgid "Show border"
+msgstr ""
+
+#: widgets/image.php:117
+msgid "Border Color:"
+msgstr ""
+
+#: widgets/instagram.php:20
+msgid "Calluna Instagram Grid"
+msgstr ""
+
+#: widgets/instagram.php:21
+msgid "Add your instagram feed in a grid style."
+msgstr ""
+
+#: widgets/instagram.php:52
+msgid "Please enter your instagram username."
+msgstr ""
+
+#: widgets/instagram.php:137 widgets/social-icons.php:180
+msgid "Instagram"
+msgstr ""
+
+#: widgets/instagram.php:151
+msgid "Username"
+msgstr ""
+
+#: widgets/instagram.php:163
+msgid "Number of photos"
+msgstr ""
+
+#: widgets/instagram.php:165
+msgid "Open links in"
+msgstr ""
+
+#: widgets/instagram.php:167
+msgid "Current window"
+msgstr ""
+
+#: widgets/instagram.php:168
+msgid "New window"
+msgstr ""
+
+#: widgets/instagram.php:173
+msgid "Cache Notice"
+msgstr ""
+
+#: widgets/instagram.php:173
+msgid ""
+"The instagram feed refreshes every 2 hours. With a click on the save button "
+"you can refresh it immediately."
+msgstr ""
+
+#: widgets/instagram.php:200
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: widgets/instagram.php:204
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: widgets/instagram.php:212 widgets/instagram.php:230
+#: widgets/instagram.php:235
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: widgets/instagram.php:279
+msgid "Instagram Image"
+msgstr ""
+
+#: widgets/instagram.php:316
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: widgets/offers.php:17
+msgid "Calluna Offers"
+msgstr ""
+
+#: widgets/offers.php:18
+msgid "List with offers"
+msgstr ""
+
+#: widgets/offers.php:72 widgets/offers.php:74
+#, php-format
+msgid "<span>%s</span> %1s%2s"
+msgstr ""
+
+#: widgets/rooms.php:16
+msgid "Calluna Rooms"
+msgstr ""
+
+#: widgets/rooms.php:17
+msgid "List with rooms"
+msgstr ""
+
+#: widgets/rooms.php:67
+#, php-format
+msgid "<span>starting at</span> %s"
+msgstr ""
+
+#: widgets/social-icons.php:19
+msgid "Calluna Social Links"
+msgstr ""
+
+#: widgets/social-icons.php:20
+msgid "Social profile links with icons."
+msgstr ""
+
+#: widgets/social-icons.php:161
+msgid "Select the social profiles you would like to display in this widget:"
+msgstr ""
+
+#: widgets/social-icons.php:165
+msgid "Facebook"
+msgstr ""
+
+#: widgets/social-icons.php:170
+msgid "Twitter"
+msgstr ""
+
+#: widgets/social-icons.php:175
+msgid "Google+"
+msgstr ""
+
+#: widgets/social-icons.php:185
+msgid "Pinterest"
+msgstr ""
+
+#: widgets/social-icons.php:190
+msgid "Tumblr"
+msgstr ""
+
+#: widgets/social-icons.php:195
+msgid "LinkedIn"
+msgstr ""
+
+#: widgets/social-icons.php:200
+msgid "Youtube"
+msgstr ""
+
+#: widgets/social-icons.php:205
+msgid "Yelp"
+msgstr ""
+
+#: widgets/social-icons.php:210
+msgid "Tripadvisor"
+msgstr ""
+
+#: widgets/social-icons.php:213
+msgid "Link Target:"
+msgstr ""
+
+#: widgets/twitter.php:20
+msgid "Calluna Twitter Feed"
+msgstr ""
+
+#: widgets/twitter.php:21
+msgid "Show your twitter tweets."
+msgstr ""
+
+#: widgets/twitter.php:52
+msgid "Title:"
+msgstr ""
+
+#: widgets/twitter.php:57
+msgid "Twitter Username"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Calluna Core Plugin"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.themetwins.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Calluna Core - Main functions for the Calluna Hotel Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themetwins"
+msgstr ""
